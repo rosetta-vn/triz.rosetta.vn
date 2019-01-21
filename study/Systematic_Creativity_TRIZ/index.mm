@@ -93,44 +93,47 @@
 </node>
 </node>
 <node CREATED="1548068647237" ID="ID_314032997" MODIFIED="1548068648988" TEXT="4. Function definition">
-<node CREATED="1548068737214" ID="ID_1721898235" MODIFIED="1548068738564" TEXT="4.1 Intro to FM">
+<node CREATED="1548068737214" FOLDED="true" ID="ID_1721898235" MODIFIED="1548071462352" TEXT="4.1 Intro to FM">
 <node CREATED="1548068745629" ID="ID_1867195777" MODIFIED="1548070560470" TEXT="Function modelling concept (essential of the modern TRIZ)&#xa;Function modelling- finding approach to model the product part by part&#xa;and modify the model&#xa;&#xa;Function is legitimate if&#xa;&#xa;&#x2022; components are material objects or fields&#xa;&#xa;&#x2022; there is an interaction between Components&#xa;&#xa;&#x2022; a parameter of Function recipient (Object) is changed or maintained as the result of the Function&#xa;&#xa;Function is not legitimate if&#xa;&#xa;&#x2022; It is defined by Not- sentence (&#x201c;Not doing smth&#x201d;)&#xa;&#xa;&#x2022; It is declarative (&#x201c;to save the World&#x201d;, &#x201c;to contribute progress&#x201d; etc)&#xa;&#xa;Function oriented analysis by TRIZ helps to&#xa;&#xa;1) Understand what is happening in the engineering system&#xa;&#xa;2) Formulate Ideal Final Result&#xa;&#xa;3) Have a common ground&#xa;&#xa;4) Represent interconnections in a system"/>
-<node CREATED="1548069916137" ID="ID_1914274510" MODIFIED="1548070183280">
+<node CREATED="1548069916137" ID="ID_1914274510" MODIFIED="1548071457893">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="function_modeling_links.png" width="600" height="315" />
+      <img src="function_modeling_links.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1548069789080" ID="ID_1758767681" MODIFIED="1548070503219" TEXT="Robert:&#xa;When I realized that I have obviously difficulties with functional modeling I searched and found a very interesting article. The most important topics are mentioned here:&#xa;The function analysis for engineering systems was developed by specialists of the Leningrad (St. Petersburg) TRIZ school. &#xa;Definition of function &#x201c;An action performed by one Material Object to change or maintain a Parameter of another Material Object&#x201d;. Triad for the description of a function &#x201c;function carrier &#x2013; action &#x2013; object of the function&#x201d;. A parametrical evaluation of the level of function performance is recommended, as well as usage of useful (may be subclassified insufficient, normal or excessive), harmful and neutral level of function. &#xa;The introduction of a parameter for evaluating the level of function performance enabled a clear separation of two concepts: &#x201c;action&#x201d; and &#x201c;result of an action&#x201d;. In Engineering System it often makes sense to evaluate the level of a function at certain times and locations. &#xa;Here come a picture of the template, and an example for a toothbrush system:"/>
-<node CREATED="1548070232268" ID="ID_369763998" MODIFIED="1548070474376">
+<node CREATED="1548070232268" ID="ID_369763998" MODIFIED="1548071402800">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="advanced_function_approach.jpg" width="800" height="220" />
+      <img src="advanced_function_approach.jpg" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1548070421191" ID="ID_744625481" MODIFIED="1548070485068">
+<node CREATED="1548070421191" ID="ID_744625481" MODIFIED="1548071418517">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="advanced_function_example.jpg" width="800" height="411" />
+      <img src="advanced_function_example.jpg" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1548068779742" ID="ID_1161483667" MODIFIED="1548068780798" TEXT="4.3 Discuss &quot;Function Microphone&quot; **">
