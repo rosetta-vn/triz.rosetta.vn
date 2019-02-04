@@ -1,0 +1,153 @@
+DETAILED DESCRIPTIONS OF THE TOPICS REQUIRED FOR LEVELS 1 - 3
+
+Level 1
+
+1. Function Analysis for Products (devices).
+	1.1. Component Analysis.
+		Components of the system and Supersystem. What can be and cannot be a component; how to choose the right hierarchal level for component analysis.
+	1.2. Interaction Analysis.
+		What is an interaction in TRIZ. How to build the interaction matrix. Connection of the Component Analysis and the Interaction Analysis. What information the cell of theInteraction Matrix contains.
+	1.3. Function modeling.
+		How to formulate a function correctly, conditions of a function existence. Main Function of the engineering system. What is Target and how to identify it. Function types, function ranks, how to identify function ranks: basic, additional and auxiliary functions. Levels of function performance – insufficient, normal and excessive. Importance of defining the system boundaries.
+	1.4 Value Analysis (Function / cost diagram, cost diagram)
+	1.5 Outcomes of Function Analysis: Types of Function disadvantages.
+2. Value / Ideality
+3. Introduction to Cause-Effect Chain Analysis.
+	What CECA is. Outcome of CECA: Initial and Key Disadvantages. How to choose a Key Disadvantage. Connection between Function Analysis and CECA.
+4. Trimming.
+	4.1. Definition of Trimming. Rules of Trimming A, B, C.
+	4.2. Recommendations for Rule C.
+	4.3. Outcomes: Trimming Problems
+5. Modeling Key Problems as Engineering Contradictions (Technical Contradiction, System Contradiction) and Problem Solving
+	5.1 Definition of Engineering Contradiction. Inventive Principles for resolving Eng.C. Formulating Eng.C.: If-Then-But format.
+	5.2 Contradiction Matrix (Altshuller’s). 40 inventive principles. How to covert specific parameters into typical parameters.
+		Outcomes: Original Contradictions and alternative Contradictions and a Model of Solution
+6. Modeling Key Problems as Physical Contradictions and Problem Solving.
+	6.1 Definition of PhC.
+	6.2. Algorithm for resolving Physical Contradictions: separation, satisfaction and bypass. Separation in time, space, relations, system level.
+	6.3. Connection between Technical and Physical contradictions - If-Then-But table - converting Technical contradictions into Physical Contradictions.
+	6.4 Outcomes: Model of solution
+7. Resources and Resource Analysis.
+	7.1 Notion of resource. Types of resources.
+	7.2 Resource Analysis.
+	7.3 Outcome: Using resources for a) Component model; b) Trimming c) Resolving Contradictions
+8. Scientific Effect Database
+	8.1 Algorithm for use of Scientific Effect Database
+9. Brief History of creation and evolution of TRIZ.
+	Reference: 40 Principles paper
+10. System Operator (9-Screens)
+	10.1 Sub-system, System, Super-system
+
+Level 2.
+1. Function Analysis for Technological Processes.
+	1.1 Component Analysis. Difference between the Component Analysis of Devices and Processes. Notion of an Operation. Importance of identifying the process boundaries.
+	1.2. Function modeling. Function ranking system for Technological Processes: definitions of
+		- productive functions
+		- providing functions
+		- corrective functions.
+	1.3 Notion of a defect.
+	1.4 Types of providing functions:
+		- transportation functions
+		- measurement functions
+		- supportive functions.
+	1.5 Function-Cost/or another goal parameter Diagram for Processes and Products.
+2. Trimming for Technological Processes.
+	2.1. Rules of Trimming for:
+		- Productive functions
+		- Providing functions (all types)
+		- Corrective Functions.
+3. Nuances of Cause-Effect Analysis
+	3.1. Operators AND and OR
+	3.2. Vicious circles
+	3.3. Using parameters / formula in CECA
+4. Substance-Field Modeling and System of Standard Solutions
+	4.1 The major idea, types of subfields: incomplete, harmful, complex, chain, double, measurement.
+	4.2 System of Standard Inventive Solutions. Classes of Standard Solutions – for what type of S-F models each class is designed.
+	4.3 The most powerful and most used standard solutions from each class (students should know at least 2-3 from each class).
+5. Feature Transfer
+	5.1. Algorithm. Competing and Alternative Systems.
+	5.2. Types of feature transfer:
+		- transfer with a physical component,
+		- mixtures,
+		- pure feature transfer.
+	5.3. Multiple loop Feature Transfer
+6. Introduction to ARIZ-85C. The history of ARIZ, its major goals, its strong sides (going through all the possible problem models that TRIZ offers, using the resources, formulation new PhCs about the resources).
+	6.1. The concept of Mini-problem and Ideal Final Result. The difference between Ideal System (Ideal machine) and IFR.
+	6.2. ARIZ structure and major parts.
+7. Introduction to S-Curve Analysis.
+	7.1. Notion of S-Curve evolution and its origin (Reference Book: TESE Robert).
+	7.2. Development of the Engineering System through the S-Curve stages.
+	7.3. Major indicators of the four stages of the S-Curve. Major recommendations for the four stages of the S-Curve (the detailed indicators and recommendations as well as Transitional Stage and “Reincarnation” of engineering systems are in the topic “Trends of Evolution” or Level 3).
+
+Level 3.
+1. Trends of Engineering System Evolution: trends, mechanisms of every trend, and algorithms to some mechanisms (Reference: TESE Robert):
+	1.1. Trend of Increasing Ideality (Value)
+		- different modes of value (ideality) increase for different stages of the S-Curve
+		- Ideal System as the goal of the Trend
+	1.2. Trend of Completeness Increase.
+		- notions of the operating engine, the source of energy, the transmission and the control block and the sequence the engineering system acquires them
+	1.3. Trend of Transition to the Supersystem and Microlevel and its mechanisms
+		- mechanism for merging systems that perform the same main function and its algorithm “Feature Transfer”.
+		- mechanism for systems the perform different main functions (including allied systems)
+		- mechanism for the depth of integration
+		- mono-bi-poly
+	1.4. Trend of Trimming Increase and its mechanisms
+		- mechanism of trimming function blocks (transmission, source of energy, control block)
+		- mechanism of trimming operation for Technological Processes
+		- mechanism for trimming components of low value
+	1.5. Trend of Increasing Coordination and its mechanisms.
+		- Shape coordination and the checklist for that
+		- Action coordination and the mechanism for that
+		- Rhythm coordination
+		- Material coordination and the checklist for that
+	1.6. Trend of Increasing Controllability and its mechanisms:
+		- mechanism of Level of Controllability increase
+		- mechanism of Number of controllable states increase
+		- mechanism of Stability decrease
+	1.7. Trend of Flow Enhancement (energy, substance and information) and its mechanisms:
+		- Useful flow conductivity increase and its checklist
+		- Useful flow utilization increase and its checklist
+		- Harmful flow conductivity decrease and its checklist
+		- Harmful flow impact decrease and its checklist
+	1.8. Trend of Dynamization Increase and its mechanisms
+		- mechanism of segmentation
+		- mechanisms of dynamizations for substances and fields
+		- dynamization of functions
+	1.9. Trend of Decrease of Human Involvement
+	1.10. Trend on Non-Uniform Development
+	1.11. S-Curve Trend of Evolution – advanced level.
+		- Transitional Stage of the S-curve.
+		- Detailed indicators and recommendations for each stage of the S-curve.
+		- possibility of re-incarnation of the Engineering System. Scenarios for returning from Stage 4 to earlier stages of the s-curve.
+		- Pragmatic S-Curve Analysis. What type of innovation does your product need now?
+
+2. ARIZ – proficiency level.
+	2.1. All ARIZ parts, steps, their details and nuances, ability to do ARIZ on your project.
+
+3. Super-Effect Analysis (also can be explained in part 8 of ARIZ).
+4. Flow Analysis.
+	4.1. Notion of Flow Analysis. Types of Flows: substance, energy, information.
+	4.2. Categories of flows: useful, harmful, neutral, wasted.
+	4.3. Types of Flow Disadvantages:
+		- grey zones,
+		- stagnant zones,
+		- low flow density,
+		- bottlenecks,
+		- long channel,
+		- and others.
+	4.4. Recommendations for increasing useful flow conductivity
+	4.5. Recommendations for increasing useful flow utilization
+	4.6. Recommendations for decreasing harmful flow conductivity
+	4.7. Recommendations for decreasing harmful flow impact.
+	4.8. Connection of Flow Analysis and CECA.
+
+5. Clone Problems. Definition and the Algorithm for Clone Problem Application (Ref. VDI Standard).
+
+6. Failure Anticipation Analysis (AFD, Subversive Analysis) (Ref. Svetlana)
+
+7. TRIZ-based Forecasting (Ref. Boris; others, VDI).
+	7.1. Specifics of using TRIZ tools (FA, CECA, Trimming, FT, etc.) in TRIZ Forecast projects
+
+8. Scientific Effects
+
+
