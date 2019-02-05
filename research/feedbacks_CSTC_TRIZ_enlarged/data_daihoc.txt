@@ -1,0 +1,1604 @@
+VII.3.4. THU HOẠCH CỦA NHỮNG NGƯỜI CÓ TRÌNH ĐỘ ĐẠI HỌC
+ Lê Văn Khanh (kỹ sư cơ khí, học khóa 3):
+
+Thưa thầy Phan Dũng!
+Sau khi được học nơi thầy “phương pháp luận sáng tạo khoa học kỹ thuật”, em
+đã vận dụng và giải quyết được nhiều bài toán đã gặp trong thực tế, xin báo lại để
+cùng thầy chung vui:
+1. Quá trình đúc các vỏ xe đạp, xe Honda v.v… luôn luôn cần phải cho chi tiết đúc
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+356
+
+ép sát vào thành khuôn (để vỏ xe sao chép lại bề mặt khuôn). Để được như vậy, cần
+phải đuổi lớp không khí giữa chi tiết và bề mặt khuôn ra ngoài bằng cách khoan
+thủng nhiều lỗ nhỏ xuyên qua vỏ khuôn. Các lỗ nhỏ này sau đó sẽ để lại trên bề mặt
+chi tiết những râu cao su nhỏ.
+Em nhận nhiệm vụ đúc một chi tiết cao su rỗng, có áp suất bên trong chi tiết, còn
+mặt ngoài thì phải bóng láng.
+Ở đây không thể khoan xuyên qua vỏ khuôn như cách giải quyết thông thường vì
+sẽ để lại trên chi tiết những “râu”.
+Phát biểu mâu thuẫn lý học theo ARIZ là: bề mặt khuôn phải có các “lỗ” cho
+không khí thoát ra, đồng thời phải không có “lỗ” cho cao su chui ra.
+Kết quả lý tưởng cuối cùng là: bề mặt khuôn phải có vô số lỗ nhỏ cho không khí
+thoát ra các lỗ này và phải không cho cao su đi qua.
+Lời giải có thể là: dùng vỏ khuôn bằng vật liệu xốp, nhưng do điều kiện của
+xưởng không có vật liệu xốp và phải dùng khuôn bằng thép, em chọn cách giải quyết
+là quét lên mặt trong và các mối lắp ghép của khuôn một lớp phấn mỏng. Không khí
+sẽ lọt ra ngoài qua lớp phấn này. Tất nhiên lớp phấn này sẽ để lại trên bề mặt chi tiết
+những chấm li ti do kích thước của bụi phấn. Do vậy phấn này cần phải biến mất khi
+chi tiết sắp được định hình.
+Lời giải thực là quét lên lòng khuôn và các bề mặt lắp ghép một lớp mỏng bột
+lưu huỳnh. Khi cao su sắp định hình, lớp lưu huỳnh tác dụng với cao su và biến bề
+mặt chi tiết thành một lớp bóng láng.
+2. Có một chi tiết trong quá trình gia công cần được kẹp bằng 1 lực 20 KG trên
+diện tích 2cm x 2cm. Thể tích phần đặt cơ cấu kẹp là 1cm x 2cm x 2cm. Các giải pháp
+đã áp dụng từ trước là kẹp bằng boulong, đai ốc hoặc kẹp bằng nêm. Kẹp bằng
+boulon – đai ốc tốn thời gian và thao tác không thuận tiện. Kẹp bằng nêm thì thao
+tác kẹp và tháo kẹp càng chậm hơn.
+Từ ý nghĩ: do không gian đặt cơ cấu kẹp khá hạn hẹp, nên cơ cấu kẹp phải tận
+dụng được hết không gian cho sẵn. Đồng thời để thao tác kẹp và tháo kẹp được
+nhanh thì cơ cấu kẹp phải linh động.
+Loại vật chất nào tận dụng được hết không gian cho sẵn và có tính linh động?
+Đó là chất lỏng.
+Lời giải của bài toán là dùng một bầu đàn hồi đựng đầy nhớt đặt vào không
+gian cần tạo lực kẹp. Bầu nầy nối ra ngoài bởi một ống dẫn nhỏ gắn liền vào đầu một
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+357
+
+pittông – xylanh (loại dùng để chích).
+Thao tác kẹp và tháo kẹp là bóp hoặc không bóp lên pittông ống chích.
+3. Cần cắt một tấm ny lông 1m x 1m thành từng sợi nhỏ 5mm x 1000mm. Nhu
+cầu cần 100 sợi/ngày.
+Biện pháp sử dụng từ trước là đánh dấu các bề rộng 5mm và cắt bằng thước lá
+với lưỡi lam.
+Mỗi lần cắt được một sợi. Nhược điểm hiển nhiên là năng suất thấp và tốn nhiều
+lưỡi lam. Vì trong lúc cắt, lưỡi lam cũng cắt luôn lên mặt bàn (đặt tấm ny lông), lưỡi
+lam bị mòn.
+Để tăng năng suất và bảo đảm đúng bề rộng 5mm. Em dùng một dao cắt gồm
+nhiều lưỡi lam ghép song song cách nhau 5mm. Dao này tự nó bảo đảm bề rộng dày
+ny lông được cắt ra là 5mm. Nhưng còn phải giải quyết tiếp làm sao cho lưỡi lam lâu
+mòn.
+Phân tích chữ “mòn” thì thấy:
+Để cắt được, dao phải tác dụng lên chi tiết một lực R và do đó cũng bị mặt bàn
+(thông qua chi tiết) tác dụng lại phản lực R’.
+Vậy để dao khỏi mòn phải làm sao duy trì lực R’ mà không có mặt bàn.
+Lực R’ có thể thay bằng 2 lực R1 và R2 theo sơ đồ phân tích lực.
+Sơ đồ này dẫn tới lời giải là căng tấm ny lông bằng cách kẹp và kéo ở 2 đầu tấm
+ny lông và sau đó dùng dao cắt bình thường mà không cần tựa lên mặt bàn.
+Trên đây là ba trong rất nhiều trường hợp mà em vẫn áp dụng thành công hàng
+ngày để giải các bài toán kỹ thuật.
+Nói chung trong những lần tìm ra lời giải là nhờ nắm vững ARIZ, nhanh chóng
+nhìn rõ bài toán, xác định được mâu thuẫn kỹ thuật, mâu thuẫn lý học, cương quyết
+đẩy các mâu thuẫn của bài toán đến tột cùng.
+Em thấy dùng ARIZ, tư duy của mình (khi gặp các bài toán kỹ thuật) tăng lên
+khoảng 10 lần. Còn trong đời sống hàng ngày thì mình cảm thấy tự tin, thoải mái
+hơn. Chân thành cảm ơn thầy.
+ Huỳnh Việt Dũng (cử nhân điêu khắc, học khóa 6):
+
+Điều có ích nhất mà qua lớp học tôi đã thu hoạch được đó là:
+- Cách suy nghĩ theo từng bước để giải quyết vấn đề trong tình huống vấn đề
+xuất phát.
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+358
+
+- Lý giải được một phần những gì mà trước đây tôi đã sáng tạo một cách tự
+phát.
+- Đặt được vấn đề cho sự suy nghĩ về mối liên hệ giữa sáng tạo khoa học và sáng
+tạo nghệ thuật (trong một chừng mực nhất định, ít nhất quy vào lĩnh vực mỹ thuật
+công nghiệp.)
+Từ đây tôi nghĩ: không biết đã có hay chưa “một Algôrit mỹ thuật công nghiệp”.
+Trước một cỗ máy mới phát triển, người vẽ kiểu dáng công nghiệp chắc cũng cần có
+một công cụ gì đó để giúp cho sự tư duy sáng tạo của mình?
+Môn học này cần mở rộng cho tất cả các bạn thanh niên và cả những người lớn
+tuổi ham thích sáng tạo.
+Tôi có nguyện vọng được sinh hoạt trong một nhóm sáng tạo chuyên nghiệp và
+thực hiện phần việc chuyên môn của mình - tạo dáng công nghiệp.
+ Nguyễn Thị Quỳnh Lan (bác sỹ, học khóa 7):
+
+Trước khi học môn này, tôi đã làm việc không có phương pháp tư duy, không
+sáng tạo được gì, chỉ nghĩ sao làm vậy, do đó mất rất nhiều thời gian như giải quyết
+công việc theo hướng sai sau đó phát hiện thấy (có khi cũng không phát hiện thấy,
+chỉ biết làm hoài mà không đạt kết quả) nên quay trở lại lúc đầu, nhiều lần như vậy
+mới đạt được kết quả mong muốn. Tôi hoàn toàn không hề biết đến các thủ thuật cơ
+bản mặc dù có sử dụng trong đời sống hàng ngày, trong công tác. Cách sử dụng đó
+do thói quen, do kinh nghiệm ông bà để lại chứ không qua trường lớp nào do đó tôi
+không biết cách áp dụng triệt để cho các tình huống.
+Hiện nay, sau khi đã được học môn này, tôi làm việc có tư duy, giảm phí thời gian
+nên rộng thời giờ giải quyết thêm nhiều công việc khác. Bất cứ việc gì dù lớn hay nhỏ,
+đều coi như một bài toán. Tôi dùng các thủ thuật, các phương pháp để tìm ra lời giải
+một cách khoa học và nhanh hơn trước nhiều. Tôi đã kịp thời thay những cách giải
+quyết lỗi thời bằng cách giải quyết mới, tốt hơn. Tôi đã một phần nào sắp xếp, tổ
+chức lại máy móc, phòng bệnh (ở cơ quan) từ một chức năng thành đa chức năng mà
+không ảnh hưởng đến trật tự chung, không ảnh hưởng đến việc chữa bệnh của người
+bệnh. Tôi đã nhận thấy nếu con người ta không có phương pháp tư duy tốt thì sẽ
+chẳng làm được gì hết và chẳng bao giờ tiến bộ được.
+Những điều đã học, sẽ được tôi áp dụng vào cách xử sự và vào công tác khám,
+chữa bệnh. Chủ yếu tôi dựa vào 40 thủ thuật cơ bản và phương pháp phân tích hình
+thái, cụ thể là vào phần hành chính: sắp xếp phòng bệnh để tiện theo dõi bệnh nặng;
+sắp xếp cách làm việc để vừa theo dõi sát bệnh nhân vừa làm công tác khác (mổ,
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+359
+
+khám bệnh khác) mà không sơ sót đáng tiếc; hỏi bệnh án có phương pháp, thu gom
+dữ kiện (các triệu chứng bệnh nhân khai) có hệ thống để khám nhanh nhưng vẫn
+chính xác, chẩn đoán bệnh đúng, chữa bệnh kịp thời => bệnh nhân mau khỏi bệnh, đỡ
+tốn tiền thuốc, nhường chỗ cho bệnh nhân khác vào chữa bệnh.
+ Phạm Thị Trần Thịnh (kỹ sư kinh tế, học khóa 13):
+
+Tôi cảm thấy thực sự thích thú môn học này. Mặc dù tôi là một nhà kinh tế, sau
+13 năm công tác, đã có những bài viết đăng trên sách và tạp chí, nhưng cảm thấy
+mình phân tích các vấn đề hoàn toàn theo trực giác cảm tính, tổng hợp, chắt lọc các
+số liệu hoàn toàn theo phương pháp thử và sai. Một vài thủ thuật và phương pháp
+suy nghĩ tôi cũng đã thực hiện, nhưng không ý thức được nó một cách rõ ràng có hệ
+thống. Thực ra là tôi đã “thực hành” mà không có “lý thuyết”. Nay tôi được học môn
+này, (mặc dù trong một thời gian ngắn) tôi thấy môn học này đã cung cấp cho tôi hệ
+thống các phương pháp để suy nghĩ, xem xét một hiện tượng kinh tế - xã hội nào đó
+một cách rõ ràng hơn, có lý lẽ hơn và đưa ra kiến nghị xác đáng hơn. Tôi thực sự tin
+rằng nếu phương pháp luận sáng tạo này được áp dụng vào các môn khoa học xã
+hội, sẽ làm cho các môn học về khoa học xã hội hấp dẫn hơn và những người nghiên
+cứu về nó cũng sẽ có nhiều ý tưởng mới hơn, hay hơn.
+Dự định của tôi là sau đợt học này tôi sẽ ứng dụng ngay các phương pháp suy
+nghĩ sáng tạo vào công việc tham gia dự án của mình. Nhiệm vụ của tôi là phân tích
+môi trường kinh tế cho các hoạt động đổi mới công nghệ. Tôi sẽ áp dụng phương
+pháp đối tượng tiêu điểm để phân tích các yếu tố đổi mới công nghệ (như tài chính,
+các vấn đề pháp lý v.v…) Tôi sẽ thử nghiệm phương pháp ARIZ để giải bài toán làm
+sao nhà nước vẫn giảm được sự bội chi ngân sách nhưng cũng vẫn khuyến khích đổi
+mới công nghệ từ các đơn vị cơ sở.
+Theo tôi môn học này cần được phát triển rộng rãi ở nước ta. Ngay khi các em
+học sinh phổ thông đã phải được học môn này ở chương trình sơ cấp. Khi đi học các
+trường đại học, sinh viên phải được học chương trình trung cấp cho tất cả các ngành
+học. Vì không chỉ có ngành toán, vật lý mà cả khoa học xã hội cũng cần. Sau khi ra
+trường, làm các cán bộ khoa học phải được học tập một cách đầy đủ theo giáo trình
+cao cấp. Bởi vì môn học cung cấp cho ta một phương pháp luận để xem xét các vấn
+đề của đời sống một cách lôgíc, một cách có lý hơn.
+Nguyện vọng của tôi là sẽ tiếp tục có sự trao đổi với giảng viên để cho môn học
+ngày càng trở nên hấp dẫn hơn đối với người làm công tác nghiên cứu quản lý khoa
+học-kỹ thuật.
+Hà Nội, 23 tháng 3 năm 1991
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+360
+
+ Phan Hiền (kỹ sư chế tạo máy, học khóa 23):
+
+Trước khi theo học môn Phương pháp luận sáng tạo KHKT, tôi thường suy nghĩ
+và giải quyết các công việc chuyên môn và đời sống theo lối tự phát, tùy hứng, không
+có định hướng rõ rệt. Thực tế là mình làm theo phương pháp thử và sai mà bản thân
+cũng chưa nhận thức rõ. Do vậy kết quả công việc không cao mặc dù đầu tư khá
+nhiều thời gian.
+Sau khi theo học môn Phương pháp luận sáng tạo, tôi đã cố gắng áp dụng từng
+phần đã được học vào thực tế để giải quyết các vấn đề chuyên môn và đời sống. Qua
+đó tôi thấy rằng cách làm việc của bản thân đã thay đổi hẳn, môn học đã trang bị cho
+tôi những phương pháp suy nghĩ và cách giải quyết các vấn đề có hệ thống và có định
+hướng rõ ràng hơn trước. Với việc học 40 thủ thuật cơ bản và 13 kết luận về tính ì,
+tôi thấy đây là những lời khuyên rất tốt, đã được đúc rút từ những kinh nghiệm thực
+tế quý báu để giúp tôi suy nghĩ và hành động có hiệu quả hơn.
+Phương pháp tích cực hóa tư duy giúp tôi rất nhiều trong việc mở rộng trí tưởng
+tượng và phát các ý tưởng. Đặc biệt là phương pháp các câu hỏi kiểm tra rất thiết
+thực đối với tôi trong việc giải quyết công tác chuyên môn kỹ thuật. Tuy mới học
+phần lý thuyết và ALGÔRIT giải các bài toán sáng chế (TRIZ và ARIZ), nhưng tôi thấy
+đây là công cụ rất mạnh giúp tôi nắm được qui luật phát triển của các hệ thống kỹ
+thuật, giúp tôi định hướng tư duy sáng tạo trong suy nghĩ và hành động tốt hơn.
+Trong quá trình theo học môn Phương pháp luận sáng tạo, tôi đã áp dụng một số
+điều đã học vào trong công tác chuyên môn cụ thể là thiết kế, chế tạo 2 loại máy
+chuyên dùng cho nhà máy. Qua các kiến thức mà môn học trang bị, kết hợp với
+những kiến thức và kinh nghiệm đã tích lũy tôi sẽ tiếp tục thiết kế, chế tạo và cải tiến
+các máy móc, trang thiết bị trong nhà máy mình theo đúng như xu hướng phát triển
+của các hệ thống kỹ thuật.
+Việc theo học môn Phương pháp luận sáng tạo giúp tôi thay đổi cách suy nghĩ,
+đánh giá và giao tiếp với những người xung quanh.
+Theo tôi, môn học này cần được xây dựng và phát triển mang tính phổ cập cho
+mọi người trên đất nước ta. Bởi lẽ môn học này giúp ích rất nhiều cho việc định
+hướng tư duy sáng tạo, nên theo tôi trong giai đoạn từ nay đến năm 2000 cần đưa
+môn học này vào chương trình đại học và trung học. Còn sau năm 2000 thì cần đưa
+môn học vào chương trình phổ thông cơ sở và gắn nó với chương trình cải cách giáo
+dục.
+Qua báo Sài Gòn Giải Phóng, tôi biết được lớp học và do cần trang bị cho mình
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+361
+
+phương pháp tư duy sáng tạo, hệ thống cách thức suy nghĩ và giải quyết các vấn đề
+cho có hiệu quả hơn, cải tiến cách suy nghĩ và cách sống của bản thân phù hợp với
+quy luật phát triển của xã hội, nên tôi đã theo học môn Phương pháp luận sáng tạo.
+ Nguyễn Đức Tâm (luật sư, học khóa 24):
+
+Với một thời gian học 2 tháng cho một môn khoa học quả thật là ít ỏi. Tuy nhiên,
+khóa học môn Phương pháp luận sáng tạo KHKT đã trang bị cho tôi một kiến thức
+mới, một cách nhìn và suy nghĩ một vấn đề, một sự việc trước mặt không theo một
+quan điểm như trước kia, không còn phiến diện, hay nói khác đi là đã luyện cho tôi
+gần như từ bỏ thói quen “tính ì tâm lý”. Mặc dù tôi chưa nghiên cứu sâu và nhiều về
+môn học nầy, nhưng tin rằng với những tiếp thu, tiếp cận ban đầu của môn Phương
+pháp luận sáng tạo KHKT giúp cho tôi quen dần và đọng lại trong tôi một tiềm năng
+suy nghĩ để đặt lại vấn đề, đòi hỏi tôi phải giải quyết theo một định hướng đúng đắn
+hiệu quả.
+Để áp dụng kiến thức của môn học nầy, bước đầu tôi đã áp dụng trong lĩnh vực
+nghề nghiệp của tôi bằng những thủ thuật đã học được. Tôi đã đặt ra một hệ thống
+các “câu hỏi kiểm tra” để tiếp xúc với các thân chủ của tôi đến nhờ tôi bảo vệ trong
+việc tố tụng và giải quyết vấn đề bằng những thủ thuật cơ bản mà tôi được trang bị
+sau khóa học.
+Tôi có thêm những suy nghĩ mới và tin tưởng rằng sẽ đạt được kết quả tốt khi tôi
+quyết định làm một việc gì khác với công việc thường ngày của tôi là lĩnh vực xã hội.
+Quan niệm của tôi hiện thời đối với môn học nầy về sự phát triển của nó ở nước
+ta hiện nay là rất cần thiết. Xã hội đang phát triển và sự tiến hóa của nó cần có
+những trang bị kiến thức về khoa học. Môn phương pháp luận sáng tạo KHKT cũng
+là một môn khoa học cần phổ cập cho mọi đối tượng trong xã hội. Tùy theo năng
+khiếu của từng cá nhân, kiến thức tiếp thu của từng con người cụ thể, phương pháp
+luận sáng tạo KHKT sẽ giúp cho họ, trang bị cho họ một “vũ khí” tự vệ lợi hại hơn, cho
+cuộc sống của họ nhiều hy vọng và lạc quan hơn.
+ Phạm Huy Phương (bác sỹ, học khóa 29):
+
+Lớp Khoa học sáng tạo đã cung cấp những kiến thức làm đổi thay lớn lao các
+quan niệm lâu nay của tôi về thế giới khoa học, kỹ thuật, về phương pháp tư duy và
+phương pháp làm việc. Tôi thấy những nhận xét đánh giá của mình về các thành tựu
+khoa học, lối làm, lối nghĩ của mình trước đây là ấu trĩ, đơn điệu và thô thiển. Thực
+ra trước đây tôi không hề nghĩ rằng có một khoa học nghiên cứu về cách người ta
+suy nghĩ và phát minh. Và tôi sống trong thế giới khoa học tiến bộ từng ngày mà rất
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+362
+
+nhiều điều không hiểu và cũng không tin mình có thể hiểu, vì sao lại có sự ra đời của
+máy móc này, cải tiến kia. Cuối cùng là không tin mình có thể làm được cái gì đáng
+gọi là “sáng tạo”.
+Nay thì dường như tôi đã có cái nhìn biện chứng hơn, mạch lạc hơn về chuỗi
+các tiến hóa trong phát minh, sáng tạo, trong lịch sử khoa học, y học (tôi vốn là một
+bác sĩ) chúng không còn vẻ tách biệt nhau nữa mà có tính qui luật, tính kế tục, kế
+thừa và tuân theo qui luật về cuộc đời của các hệ thống kỹ thuật.
+Tôi cũng tâm đắc với nhận định rằng sự tiến hóa của khoa học lâu nay phần
+nhiều mang tính tự phát “thử và sai” với nhiều nhược điểm (đã được nêu ra một cách
+súc tích trong sách PPLSTKHKT trang 19) và rằng hiểu biết Khoa học sáng tạo có thể
+mở ra triển vọng khắc phục được các nhược điểm này. Từ đó ta có thể sống sáng tạo
+hơn, dấn thân hơn, biết ước mơ và biết hành động hơn. Từ chỗ nhìn ra được thế nào
+là một “sáng tạo” tôi thoát được hai quan niệm có tính cách cực đoan về nó. Một: cho
+rằng sáng tạo là một điều gì quá to tát và do vậy chỉ dành cho những đầu óc thông
+minh siêu việt. Hai: cái cách người ta làm ra một sáng tạo là điều không thể hiểu nỗi.
+Từ lớp học này, trong tôi nhen nhóm một ước muốn làm một điều gì đổi thay một cái
+chưa hoàn thiện quanh mình, dù nhỏ hay lớn, dù thuộc cuộc sống đời thường hay
+thuộc chuyên môn nghề nghiệp. Phải tập luyện thói quen nhìn thấy tình huống bài
+toán cho nhạy và vận dụng các thủ thuật cơ bản, phương pháp biến đổi mẫu v.v… để
+giải quyết chúng.
+Cho tới giờ đây tôi tự thấy cụ thể thì chưa làm được gì đáng kể. Buộc phải kể
+thì xin nêu một chuyện vặt như sau: nhà tôi có một kệ chứa đầy các hộp băng
+cassette, nhiều trong số đó thuộc cùng một hiệu nên rất giống nhau. Tên của băng tôi
+ghi nơi phần giấy lót gáy hộp băng. Mỗi lần muốn tìm một cuộn băng nào phải đọc
+chỗ này mới biết, cho nên phải tiến lại gần kệ và đọc dò tìm khá mỏi mắt. Tôi chọn
+giải pháp ký hiệu và dùng màu thêm vào ở phần gáy hộp băng này cũng như ở phần
+nhãn dán trên cuộn băng. Kết quả là chỉ cần đứng xa xa lướt mắt qua thật nhanh
+cũng biết hộp băng mình muốn tìm có đó hay không và xác định được vị trí nó ngay
+(thủ thuật số 32). Tôi cũng nhận thấy ở mặt đối diện với mặt gáy của hộp đựng băng
+người ta không có ý cho biết tên băng ở đây. Điều này bất lợi ở chỗ nếu hộp băng bị
+để ngược trong hộc đựng băng ta phải kéo nó ra để đọc nơi gáy hộp hay trên chính
+nhãn băng. Tôi cho dán lên phần này của hộp một cái nhãn nữa thì băng nằm xuôi
+hay ngược gì ta cũng đều biết được tên nó. Không biết đây có thuộc nguyên tắc 13 đảo ngược không?
+Được biết đến Khoa học sáng tạo quá muộn là một thiệt thòi. Tôi nghĩ rằng nên
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+363
+
+dạy sáng tạo cho trẻ em từ 7 – 8 tuổi dưới hình thức những trò chơi và lúc đầu cho
+chúng gặp những nguyên tắc dễ cảm hiểu nhất ví dụ nguyên tắc thay đổi màu sắc,
+nguyên tắc quan hệ phản hồi, nguyên tắc tự phục vụ, nguyên tắc chứa trong v.v…
+Càng lớn thì dạy các nguyên tắc khó hơn, và với các nguyên tắc đã học thì được nhìn
+lại qua một lăng kính thực tiễn đời sống khoa học và kỹ thuật hơn. Để một ngày tuổi
+trẻ Việt Nam vừa lớn lên đã có đầy đủ bản lĩnh sáng tạo tự nhiên như hơi thở (chữ
+dùng của thầy).
+Đã hơn một lần cảm thấy mình nghèo nàn yếu kém trong việc tìm giải pháp cho
+các vấn đề thường ngày và nghề nghiệp. Đã nhiều lần cảm thấy tò mò khi nghe giới
+thiệu về ngành khoa học này trên báo chí và linh cảm dường như nó có cơ đáp ứng
+được cái thiếu vô hình kia. Lần lữa mãi, một ngày một người bạn cho một tờ thông
+báo chiêu sinh lớp tới. Tôi thu xếp đi học với ý định tìm thêm chút trang bị nữa cho
+kiến thức của mình. Nhưng cái tôi gặp là một sự đổi thay toàn diện và sâu sắc về tri
+thức và nhận thức cuộc đời.
+ Vũ Chí Dũng (kỹ sư, học khóa 31):
+
+Từ khi học môn phương pháp luận sáng tạo xong. Em thấy:
+o Mọi vấn đề trong cuộc sống nhận định một cách chặt chẽ rõ ràng hơn.
+o Mọi sự việc tiếp cận trong cuộc sống hàng ngày đều có tính sáng tạo và ích lợi
+chung và riêng.
+o Tinh thần luôn luôn trầm tĩnh và tự tin.
+o Mọi vấn đề khó khăn trong cuộc sống có thể giải quyết một cách hợp lý và
+nhanh hơn.
+Khi học xong, em đã và đang áp dụng những kiến thức học được áp dụng cho
+cuộc sống làm ăn mang tính kinh doanh và sáng tạo trong nghề chế tạo cơ khí và kết
+quả thật khả quan em đã cho ra nhiều sản phẩm mà không còn bị lẩn quẩn trong lối
+mòn nghề nghiệp…
+Đối với những người xung quanh mọi ứng xử, giao tế, em đã dùng phương pháp
+luận sáng tạo KHKT, thuyết phục và đạt được kết quả mong muốn.
+Môn học PPLST KHKT rất cần cho đất nước chúng ta.
+Vì: nước ta là nước nghèo, lạc hậu về kiến thức, lẫn kinh tế.
+Môn này nếu được phát huy đúng mức thì sẽ tạo ra rất nhiều đội ngũ có kiến
+thức cao rộng, từ đó sẽ tạo ra nhiều của cải vật chất, làm cho nước ta ngày càng phát
+triển hơn nữa. Nước giàu không phải đất rộng, người đông, và nhiều của cải, tài
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+364
+
+nguyên thiên nhiên, mà là một nước giàu phải có nhiều người giỏi, kiến thức rộng và
+sáng tạo được nhiều thì mới giữ được nước và làm giàu cho quốc gia.
+Ví dụ: điển hình là nước Nhật, sự thành công ở giáo dục tinh thần…, trong khi
+nước Nhật là một nước nghèo, ít tài nguyên thiên nhiên, dân không đông như những
+nước khác.
+o Môn phương pháp luận sáng tạo này theo em nghĩ: mọi người đều cần.
+ Nguyễn Hữu Dũng (kỹ sư nông nghiệp, học khóa 36):
+
+Sau khi theo học lớp phương pháp luận sáng tạo KHKT tôi đã tự lý giải được
+quan điểm sống của mình từ trước đến nay. Tự kiểm tra lại quá trình tư duy của
+mình. Hiểu và khắc phục tính ỳ tâm lý đã hình thành trong bản thân từ trước đến nay
+và đã từng gây những bế tắc trong suy nghĩ và cuộc sống.
+Từ nay tôi cảm thấy như được trang bị một công cụ mới trong tư duy sáng tạo.
+Ngay sau khi học được ½ khóa học tôi đã bắt đầu áp dụng những điều học được
+trong công việc nghiên cứu chuyên môn của mình, cụ thể là bằng các thủ thuật
+“phẩm chất cục bộ”, “gây ứng suất sơ bộ” và “phân nhỏ” tôi đã đưa ra được phương
+pháp mới trong việc nuôi trồng nấm rơm trên khay. Đó là vấn đề định vị các cụm quả
+thể nấm trên bề mặt khay trồng, hay nói cách khác là có thể điều khiển được vị trí
+mọc của các quả thể nấm rơm. Điều này đáp ứng được việc cơ giới hóa trong ngành
+nuôi trồng nấm và đây cũng là bài toán tôi đã đặt ra từ lâu nhưng nay mới có lời
+giải. Ngoài ra kích thước của quả thể bây giờ cũng điều khiển được trong quá trình
+nuôi trồng để phù hợp với yêu cầu của thị trường. Thời gian qua, tôi đã tiến hành thí
+nghiệm để kiểm tra nhiều lần và kết quả thu được tương đối ổn định.
+Tôi dự định sẽ tiếp tục vận dụng những điều đã học được vào công việc đặt và
+giải các bài toán cụ thể trong ngành chuyên môn của mình và sau đó tiến đến giải các
+BT của các ngành khác.
+Tôi cho rằng môn học này rất cần thiết cho mọi người, nhất là thanh thiếu niên,
+trước mắt nên đưa vào chương trình đại học.
+Về lâu dài, nên có những giáo trình thích hợp với từng lứa tuổi để đưa vào
+chương trình giáo dục từ mẫu giáo đến phổ thông.
+ Nguyễn Văn Thông (kỹ sư, học khóa 42):
+
+Trải qua chương trình học phổ thông và đại học cũng như nhiều học phần khác
+phục vụ cho công tác và cuộc sống, nhưng chưa bao giờ tôi cảm thấy hứng thú như
+được học môn PHƯƠNG PHÁP LUẬN SÁNG TẠO KHKT tại Trung tâm TSK - Trường
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+365
+
+đại học tổng hợp Thành phố Hồ Chí Minh.
+Trong cuộc sống, tôi đã bao lần không biết phải giải quyết vấn đề này, vấn đề kia
+như thế nào? Nhiều hôm, trằn trọc thâu đêm khi chưa tìm ra lời giải cho những vấn
+đề mình phải giải quyết. Lần mò đi tìm lời giải nhưng không ít những vấn đề phải bỏ
+dở vì đã tốn quá nhiều công sức, không ít thời gian qua những lần thử nghiệm mà
+vẫn không hy vọng tìm ra đáp số.
+Gần đây, qua báo Sài Gòn Giải Phóng, được biết Trường ĐHTH có mở lớp học về
+tư duy sáng tạo, tôi liền đăng ký theo học. Tới đây, tôi biết mình đã quá chậm. Nếu
+biết sớm và được học cách đây 10 – 15 năm thì cuộc đời tôi sẽ thay đổi khác nhiều.
+Qua hai tháng học tập, mặc dù xét thấy cần phải học kỹ, học sâu hơn nữa về môn
+học mới mẻ và lý thú này nhưng tôi cảm thấy, chỉ sau khi qua lớp PHƯƠNG PHÁP
+LUẬN SÁNG TẠO KHKT tôi mới thực sự là tôi. Ngày nay, tôi có cách nhìn, suy nghĩ,
+quyết định tự tin hơn bao giờ hết đối với mỗi vấn đề. Từ những kiến thức học được
+tôi có thể áp dụng vào bất cứ lĩnh vực nào, từ việc riêng tư, gia đình cho đến những
+công việc ở cơ quan cũng như quan hệ ngoài xã hội. Trong quan hệ với môi trường
+xung quanh, cùng một lúc, tôi áp dụng nhiều thủ thuật nên lúc nào cũng có bầu
+không khí vui vẻ, hòa bình mặc dù mỗi người quanh tôi là mỗi ý tưởng, mỗi cuộc
+sống, cá tính khác nhau. Những lúc gặp vấn đề phức tạp, chưa xác định được cách
+giải quyết, tôi kiên quyết để lại đến lúc thích hợp nghiên cứu tiếp nên đầu óc không bị
+căng thẳng triền miên như trước đây.
+Chúng ta, ai cũng phải tư duy, nhưng để tư duy một cách khoa học thì có lẽ chỉ
+sau khi theo học lớp PHƯƠNG PHÁP LUẬN SÁNG TẠO KHKT. Một phương pháp luận
+tư duy vô cùng mới mẻ và hữu ích, gần gũi, dễ hiểu, dễ nhớ, phạm vi ứng dụng rộng
+mà tôi chưa thấy môn khoa học nào có thể so sánh được. Trước đây, những bài toán
+ngoài phạm vi kiến thức là tôi cảm thấy phức tạp và xa vời, nhưng giờ đây, bất kỳ
+trong lĩnh vực nào, tôi cũng có thể tham gia được một chút nào đó. Tôi biết, đó là do
+từ trước đến nay không ai dạy cho mình phương pháp tư duy đúng đắn, không biết
+nhận xét bài toán, các mặt của bài toán cho thấu đáo theo trình tự logic của hệ
+thống. Lâu ngày, tạo cho bộ óc một thói quen xấu làm hạn chế sự sáng tạo của mỗi
+con người. Tiếc rằng, phương pháp dạy học sinh và đào tạo lớp trẻ hiện nay, chúng
+ta không khuyến khích tư duy, không định hướng và mở rộng tư duy nên thanh niên
+vào đời với bộ óc xơ cứng và biếng nhác thụ động.
+Qua học tập, tôi thấy môn học này cần được phổ cập sớm và rộng rãi cho mọi đối
+tượng, mọi lứa tuổi. Cần thay đổi phương pháp giảng dạy, biên soạn lại sách giáo
+khoa sao cho mỗi tiết dạy, mỗi bài học đều có kiến thức tư duy mới chỉ đạo để xã hội
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+366
+
+ta nhanh chóng có lớp người mới năng động, tư duy sáng tạo, kiến thức phong phú…
+Tuy nhiên, đây là việc khó, đòi hỏi ở cấp vĩ mô có thấy được lợi ích to lớn không gì so
+sánh, thì môn học này mới sớm được phổ cập và xã hội ta mới nhanh chóng thay đổi
+về chất.
+Đất nước ta trải qua nhiều năm chiến tranh, việc xây dựng đất nước đang rất
+cần một định hướng chiến lược đúng đắn. Nếu mỗi cán bộ đảm đương những trọng
+trách từ Trung ương đến cơ sở chỉ cần có kiến thức sơ cấp về môn học tư duy này và
+biết vận dụng vào thực tế thì chắc chắn chúng ta không còn phải trải qua bao thăng
+trầm, lộn xộn cả trong kinh tế lẫn ngoài xã hội như vừa qua. Chính vì vậy, cảm nhận
+được đây là môn học lý thú, bổ ích và không thể thiếu được đối với mỗi người, đã
+được tiếp thu những kiến thức mới trong tình thầy trò thân ái nhưng tôi không cảm
+nhận có niềm vui trọn vẹn. Bởi vì, có thể nói, đây là một môn học không thể thiếu đối
+với bất cứ ai nhưng chỉ thấy người học là những sinh viên, là những người đang lao
+động trong các cơ quan, xí nghiệp mà ít thấy những người làm công tác quản lý xã
+hội, những nhà hoạch định đường lối phát triển kinh tế, xã hội cũng như những
+người lãnh đạo từ vi mô đến vĩ mô theo học. Như vậy, mỗi chúng ta còn phải tiếp tục
+chịu hậu quả của phương pháp thử và sai mà chưa biết khi nào mới chấm dứt. Đến
+bao giờ, chúng ta mới có được ALGÔRIT về phát triển kinh tế và quản lý xã hội.
+Tôi rất cảm phục thầy Phan Dũng và các thầy của Trung tâm TSK không quản
+khó khăn, kiên trì truyền bá phương pháp tư duy, sáng tạo mới ở nước ta. Mong sao
+có nhiều người vì sự lành mạnh và phồn thịnh của xã hội mà tích cực bằng mọi cách
+làm cho những người xung quanh hiểu và nhận thức được tầm quan trọng của môn
+học mới mẻ này. Về phần mình, ngay từ lúc đang học tôi đã tích cực tuyên truyền, vận
+động đồng nghiệp và những người quen biết để mọi người hiểu và sắp xếp thời gian
+theo học. Ngoài ra, nếu Trung tâm thấy tôi có thể làm gì để khuếch trương sự phát
+triển của Trung tâm nhằm đáp ứng yêu cầu ngày càng tăng của xã hội về môn học
+này, tôi xin sẵn sàng chấp thuận.
+Trước khi dừng bút, tôi xin chân thành cảm ơn thầy Phan Dũng, thầy Hưởng và
+Trung tâm đã trao cho tôi những kiến thức mà bao năm tôi hằng mong ước. Kính
+chúc các thầy luôn khỏe, chúc Trung tâm ngày càng phát triển.
+ Hoàng Văn Dũng (cử nhân luật, học khóa 70):
+
+Trước đây, trong cuộc sống và công tác của mình, tôi thường vấp phải rất nhiều
+vấn đề cần phải giải quyết nhưng tôi thật sự tỏ ra rất lúng túng là mình nên bắt đầu
+từ đâu và khi đã có kết quả thì tốn khá nhiều thời gian mà chưa đánh giá được kết
+quả như thế nào là đúng đắn nhất. Đứng trước tình trạng như vậy, tôi ước ao sẽ có
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+367
+
+một lớp học nào đó dạy về các phương pháp suy nghĩ để giải quyết các vấn đề trong
+cuộc sống hàng ngày và đưa đến kết quả đúng nhất và thời gian ngắn nhất. Trong
+thời gian này nhiều lần đọc trên báo chí rằng có lớp “Phương pháp luận sáng tạo
+KHKT” chiêu sinh, nhưng trong đó có chữ “KHKT” nên tôi đã không quan tâm lắm và
+chờ đợi một lớp khác mang tính tổng quát hơn. Dù tôi rất sốt ruột nhưng trong hơn
+2 năm đã không có một lớp nào như vậy, nên tôi nghĩ rằng “sáng tạo” nào cũng là
+sáng tạo thế là tôi có mặt tại khóa 70 này.
+Nay khóa học đã kết thúc, nhìn lại mình, dường như tôi thấy mình “khôn” hơn ra
+thì phải, cuộc sống thoải mái hơn và bản thân tự tin hơn rất nhiều so với trước đây,
+bởi vì giờ đây khi phải đối mặt với một vấn đề nào đó trong cuộc sống tôi không còn
+phải mày mò với phương pháp thử và sai “nữa” mà đặt nó thành các bài toán cụ thể
+và vận dụng từng bước để đạt được kết quả như mong muốn. Chung qui, tôi đã tạo
+cho mình một phong cách sống tốt hơn và tôi có thể nói không ngoa rằng tôi đã có
+một món hành trang cực kỳ quý giá cho cuộc sống của mình.
+Thời gian qua tôi đã có một số thành công bước đầu trong công việc của mình,
+như tạo thêm nhiều dịch vụ mới cho cơ quan, giải quyết công việc tốn ít thời gian
+hơn. Đối với bạn bè tôi đã giúp một số người có những vướng mắc trong cuộc sống
+và công việc mà họ đang khó khăn để tìm cách giải quyết.
+Nhìn vào tương lai, ta thấy rằng con người của thế kỷ XXI phải là những con
+người biết tư duy sáng tạo mà khả năng sáng tạo của mỗi người đều có (trừ những
+người có khuyết tật bẩm sinh) nhưng không phải ai cũng thức tỉnh và vận dụng khả
+năng này của mình được. Trước xu thế đó, đất nước ta muốn đuổi kịp các nước tiên
+tiến thì ngay từ bây giờ chúng ta phải lợi dụng thời cơ này bằng cách áp dụng
+PPLSTKHKT vào hệ thống giáo dục nước ta. Trước mắt theo tôi nên dạy phương
+pháp luận này ở tất cả các trường đại học trong cả nước và thành lập riêng một
+khoa ở các ĐH sư phạm; bước tiếp theo là dạy ở cấp III ngay từ năm học đầu tiên, về
+lâu về dài tiến hành dạy từ khi các em bắt đầu đi học đến khi tốt nghiệp đại học.
+Xin chân thành cảm ơn các thầy và Trung tâm đã cho tôi một động lực thúc đẩy
+mình tiến nhanh hơn về phía trước.
+Ngày 10/ 9/ 1995
+ Nguyễn Ngọc Quang (kỹ sư, học khóa 98):
+
+Trước đây mỗi khi suy nghĩ một vấn đề gì để giải quyết – qua một đơn đặt hàng,
+thường là mò mẫm đi theo đường mòn, tự phát, tính ì tâm lý quá lớn, không hiệu quả
+tốn nhiều thời gian, công sức, vật tư…, không khách quan, dễ bị lệch hướng sai vấn đề
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+368
+cần giải quyết.
+
+Tuy thời gian học khóa sơ cấp có ngắn, nhưng kết quả thu được rất mỹ mãn.
+Nhờ áp dụng các phương pháp tích cực hóa tư duy và 40 nguyên tắc cơ bản đã học
+được giúp cho tôi có nhiều ý tưởng mới, suy nghĩ có hệ thống hơn, giải quyết bài toán
+dễ dàng nhanh chóng đem lại hiệu quả tốt trong sản xuất, phát huy thêm sáng kiến,
+cải tiến lại hệ thống lắp ráp tủ kem, tủ ướp… (điện lạnh) hoàn thiện hơn lúc ban đầu.
+Bài toán được đặt ra như sau:
+Sửa chữa lại toàn bộ xưởng sản xuất vì hiện tại xưởng quá thấp và chật.
+Yêu cầu: không được ngừng sản xuất mà việc sửa chữa vẫn phải tiến hành song
+song.
+Khi đó tôi suy nghĩ mãi và vẫn không giải được bài toán. Chỉ có cách duy nhất là
+tháo gỡ toàn bộ, xây dựng lại bằng bê tông cốt thép. Phải thuê mặt bằng khác để di
+chuyển máy, phương tiện sản xuất, như vậy có nghĩa là thay đổi hệ thống hoàn toàn
+(phá vỡ hệ). Như vậy mức độ tốn kém quá lớn, không hiệu quả, tốn thời gian lâu.
+Cuối cùng vẫn chưa giải quyết được.
+Nhờ đến khi học khóa nầy xong thì bài toán cũng đã giải được. Không thay đổi
+hệ, bước đầu đã và đang sửa chữa lại xưởng bằng phương án nhà tiền chế. Làm
+bằng sắt thép định hình. Mọi việc đều được chuẩn bị từ trước cho đến khi hoàn tất,
+thì bắt tay vào dựng. Khi đó nó không gây ảnh hưởng đến sản xuất và tất cả mọi mặt
+khác… vẫn sử dụng lại những vật tư, vật liệu của xưởng cũ còn lại, đỡ tốn kém một
+phần lớn.
+Riêng về bản thân, tôi luôn luôn rèn luyện nhiều hơn nữa môn học này, từ từ tập
+thành thói quen suy nghĩ có hệ thống để giải quyết vấn đề tốt những bài toán gặp
+phải trong trong xã hội. Và riêng với những người xung quanh, nhất là những người
+làm việc trong xưởng. Tôi sẽ để ý và hướng dẫn giúp cho họ những điều đã học được
+theo khả năng của chính mình. Để họ suy nghĩ và áp dụng tốt trong công việc hàng
+ngày.
+Theo tôi môn học này rất cần thiết cho mọi người, mọi ngành.
+ Tăng Quỳnh (nhà báo, học khóa 99):
+
+1.
+
+Trước đây, khi đọc thuyết vô vi của Lão tử - Không làm gì cả mà thiên hạ
+
+vẫn thái bình, tôi thấy khó hiểu. Học xong phần sơ cấp PPLST KHKT tôi có nhận xét
+thuyết vô vi rất gần với quy luật tăng tính lý tưởng và tăng tính điều khiển của hệ.
+PPLST KHKT có tác dụng khá giống Thích ca là giúp người ta diệt khổ. Mỗi bên
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+369
+
+có phương pháp khác nhau.
+2.
+
+Đang áp dụng các nguyên tắc phân nhỏ, đảo ngược, gây ứng suất sơ bộ
+
+và cách nhìn 9N màn hình vào nghề nghiệp (làm báo). Mấy “chiêu” này giúp tôi thể
+hiện bài báo khác hẳn với các đồng nghiệp cùng khai thác một sự kiện báo chí.
+3.
+
+Tất cả những người học hết phổ thông đều cần học môn này. Bắt đầu từ
+
+lứa tuổi nào cũng tốt, vấn đề là có ngôn ngữ, cách truyền đạt thích hợp cho từng lứa
+tuổi, học vấn.
+Cần học cấp bách nhất là những người hoạch định chính sách kinh tế, xã hội và
+điều hành đất nước. Nếu họ được học, những hậu quả nặng nề như nợ nần, lãng phí,
+hủy hoại môi trường để lại cho thế hệ sau sẽ giảm bớt rất nhiều.
+ Vũ Nhất Duy (kỹ sư tin học, học khóa 125):
+
+Từ trước tới nay tôi đã từng nhiều lần tìm cách tối ưu một bài toán, tìm cách
+làm tốt hơn một công việc nào đó. Nhưng chưa bao giờ tôi có ý nghĩ là tìm cách để
+suy nghĩ tốt hơn. Và tôi đã thật sự bất ngờ khi biết rằng suy nghĩ cũng có phương
+pháp và có hẳn một môn học, ngành học riêng.
+Tôi đã tốt nghiệp đại học ngành tin học. Thế nhưng khi thực tế ra công tác cho
+đến bây giờ, tôi cảm thấy chưa áp dụng được nhiều kiến thức đã học. Nhưng chỉ với
+60 tiết học môn này tôi đã thử và đang áp dụng được rất nhiều trong cuộc sống. Ví
+dụ: theo nguyên tắc liên tục tác động có ích, bây giờ tôi vừa giặt đồ vừa nghe nhạc,
+khi làm bài tập, viết báo cáo đến lúc mỏi lưng thì nằm đọc sách báo… khi gặp một
+người đang bực tức, cáu gắt với tôi, tôi coi như đây là hệ hiện tại và với “màn hình 9
+hệ”, tôi xem lại hệ quá khứ “chắc anh này vừa thất bại chuyện gì”, “chắc anh ta mới
+gặp khó khăn”. Với màn hình tương lai, nếu mình cũng cáu gắt với anh ta chắc chắn
+sẽ sinh chuyện. Vậy để hệ tương lai tốt hơn (cho tôi, cho anh ta và cho mọi người), tôi
+thông cảm với anh ta, chọn khi khác tốt hơn để nói… Vâng tất cả chỉ với 60 tiết học
+tôi đã và đang áp dụng được rất nhiều. Quan trọng nhất là tôi đã để ý đến tối ưu suy
+nghĩ của mình.
+Như trên đã trình bày tôi đã, đang áp dụng những điều này vào cuộc sống với
+mọi lĩnh vực mà tôi có thể áp dụng. Tôi áp dụng trong cư xử, trong sinh hoạt…
+Theo tôi, môn học rất hay và có ích này phải được dạy như một môn bắt buộc tại
+các trường đại học. Tiến xa hơn là các trường trung cấp dạy nghề và trường phổ
+thông.
+ Lê Kim Hải Yến (kỹ sư, học khóa 128):
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+370
+
+Sau khi học xong khóa sơ cấp “Phương pháp luận sáng tạo KHKT giải quyết vấn
+đề và ra quyết định”, em cảm nhận được rất nhiều điều mới lạ. Nếu như trước kia đối
+với một vấn đề nào đó, em thường có cách nghĩ thông thường theo những qui tắc,
+hay những quy định gì đó đã có sẵn từ trước để đưa ra quyết định và ai có ý kiến
+khác đi, ngược lại các chuẩn đó thì em khó chấp nhận được. Lúc đó em chưa biết
+được cách nhìn vấn đề dưới nhiều góc độ khác nhau, cho nên em không thể thấy
+được những khía cạnh khác nhau, đôi khi là đối lập nhau của một vấn đề. Đôi khi biết
+trước một vấn đề rắc rối sẽ xảy ra với chính mình nhưng không thể nào có được một
+hướng suy nghĩ nào tối ưu cho nó. Còn bây giờ sau khi đã học qua khóa học này em
+cảm thấy mình tự tin và thông suốt nhiều vấn đề hơn và giải quyết công việc gọn
+gàng, nhanh chóng hơn nhờ các thủ thuật dẫn đường. Hơn nữa qua khái niệm “tính
+ỳ” mà em nhìn về mình rõ hơn, phát hiện về “tính ỳ” ở mình mà khắc phục nó để có
+được cuộc sống tự tin năng động hơn, không đơn điệu buồn chán như trước.
+Tóm lại những điều học được rất bổ ích cho em và khi vận dụng vào thực tế cuộc
+sống thì rất hiệu quả. Ví dụ như trong công việc của em, khi có vấn đề xảy ra em có
+nhiều hướng suy nghĩ và đưa ra được cách giải quyết vấn đề một cách nhanh chóng
+và chính xác.
+Còn khi cần thay đổi một qui trình sản xuất hay cải tiến đổi mới kỹ thuật em luôn
+nghĩ đến tính hệ thống và các hiệu ứng lan tỏa của nó. Nhờ thế mà em tránh được
+những va chạm hay những phản ứng không hay của đồng nghiệp, mà em vẫn đạt
+được mục đích của mình trong công việc.
+Em nghĩ môn học này rất cần phát triển rộng rãi ở nước ta, mọi người từ các học
+sinh, sinh viên đến các bạn đã đi làm có một trình độ học vấn nhất định đều có thể
+học để mình có thể thành đạt hơn trong sự nghiệp cũng như trong cuộc sống riêng
+tư. Còn bắt đầu học môn này từ lứa tuổi nào thì tốt nhất, em nghĩ tốt nhất là đối với
+các bạn sắp rời ghế nhà trường bước vào cuộc đời đi làm thì nên trang bị cho mình
+những kiến thức của môn học này.
+Em không biết phải làm gì để giúp môn học này phát triển ở nước ta, nhưng em
+vẫn khuyên những người quanh em, nếu có điều kiện nên học qua môn học này để
+biết và nhìn thấy nhiều điều mới lạ. Nó sẽ giúp cho các bạn soi rọi lại mình và thấy rõ
+những gì cần phải làm để giải quyết những vấn đề của cá nhân mình trước tiên.
+ Nguyễn Tường Vy (tốt nghiệp đại học, học khóa 140):
+
+Khi học môn “Phương pháp luận sáng tạo”, em mới nhận thức được rõ ràng rằng
+cách suy nghĩ và làm việc của em từ trước đến giờ hầu hết là sử dụng phương pháp
+“thử và sai”. Khi còn học đại học, em rất thích TQM, ISO 9000. Em luôn tâm niệm một
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+371
+
+phương châm của môn này, đó là “Làm đúng ngay từ đầu”. Tuy nhiên, biết rằng làm
+đúng ngay từ đầu là tốt nhưng làm thế nào để làm đúng ngay từ đầu thì em chưa
+biết. Bây giờ, sau khi học PPLST thì em đã được trang bị một số công cụ mạnh để làm
+được điều này, đặc biệt là em chỉ phải trả một khoản học phí không cao và thời gian
+học không dài. Hiện nay cách suy nghĩ của em cũng đã rõ ràng, tập trung hơn, em
+sống có kế hoạch và lạc quan hơn. Em hy vọng trong 4 tháng sắp tới em sẽ vận dụng
+tốt những gì mà em đã học được ở lớp sơ cấp và em sẽ tiếp tục theo học lớp trung
+cấp để “nâng cấp” tư duy của mình hơn nữa.
+Trong thời gian vừa qua em đã vận dụng được một số điều đã học như sau:
+- Căn phòng em ở trọ rất nhỏ, em đã sử dụng “nguyên tắc chứa trong” giúp nó
+gọn gàng hơn.
+- Là một sinh viên mới tốt nghiệp và đang kiếm việc làm, tâm trạng của em mới
+đầu rất nôn nóng, bức xúc. Nhưng bây giờ thì em đã giải tỏa được cảm giác trên.
+Nguyên tắc “biến hại thành lợi” đã chỉ cho em rằng thời gian thất nghiệp không hẳn
+là khoảng thời gian vô ích. Đối với em nó đã thật sự rất có ích là khác. Nhờ nó mà em
+mới tham gia lớp PPLST và có thì giờ nghiền ngẫm các điều đã học ở lớp này. Đó
+cũng là thời gian mà em làm giàu kiến thức thông qua việc đọc truyện, sách, xem
+phim… Bây giờ, em đã chấp nhận một công việc tuy không đúng sở thích của em và
+lương cũng không cao, nhưng theo nguyên tắc “giải thiếu hoặc thừa”, em cũng không
+nên quá cầu toàn, chờ đợi cơ hội lý tưởng phải không?
+- Em cũng đang cố áp dụng các quy tắc đã học đối với các bài toán phát & nhận
+thông tin.
+- Sắp tới em dự định sẽ sử dụng các kiến thức ở lớp PPLST vào trong công việc
+mới của em: mối quan hệ đối với đồng nghiệp và cấp trên sao cho tốt đẹp; tìm kiếm
+những cơ hội có thể trong công việc này… Em còn dự tính sẽ thay đổi cung cách làm
+việc và quản lý của má em và em trai của em để giúp cho tiệm may áo dài nhà em
+ngày càng phát triển.
+- Khi em còn học năm nhất ở đại học, thầy dạy tâm lý là Thái Trí Dũng có giới
+thiệu qua cho lớp em về lớp học này. Tuy nhiên, lúc đó em chưa thấy được nhu cầu
+cần phải học.
+- Trong thời gian tìm việc làm, em thường xuyên đọc báo Tuổi Trẻ và đọc thấy
+mẩu quảng cáo về lớp học này. Với hy vọng thay đổi cách suy nghĩ và do đó thay đổi
+cuộc sống của mình theo hướng tốt đẹp hơn, em đã quyết định ghi danh theo học.
+ Bùi Như Luân (thiết kế trên máy tính, học khóa 150):
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+372
+
+Thế là đã kết thúc môn học “Phương pháp luận sáng tạo”. Hai tháng học tập
+trôi qua thật nhanh. Đối với tôi đây là lần đầu tiên đi học mà đã thấy rõ được tính ích
+lợi của môn học ngay trong cuộc sống. Quả thật, môn “PPLST” đã giúp cho tôi nhận
+thức rõ hơn về cuộc sống. Có những vấn đề trong cuộc sống mà trước đây đối với tôi
+nó thật đơn giản. Nhưng khi đã trải qua quá trình học tập và suy luận, những vấn đề
+đó lại cho tôi hiểu và thấy được những khía cạnh khác mà từ trước vốn nó đã hiện
+hữu sẵn trong các vấn đề, nhưng do tính ì và không có phương pháp suy nghĩ rộng,
+cho nên tôi vẫn không hiểu thật trọn vẹn và khai triển được theo chiều sâu hơn.
+Bằng các nguyên tắc, các thủ thuật được học tôi đã giải quyết được một số
+công việc trong cuộc sống được logic hơn, chu đáo hơn. Điển hình là khi chưa học
+qua lớp PPLST, một mẫu thiết kế thêu vi tính trung bình (không khó và phức tạp) tôi
+phải mất một khoảng thời gian trên 3h mới có thể hoàn thành. Do phải phát ý tưởng,
+vẽ thiết kế ngay trên máy vi tính và các vấn đề thu thập thông tin, liệt kê đối chiếu các
+mẫu đã thiết kế để tìm ý tưởng… Nhưng khi áp dụng các nguyên tắc, các phương
+pháp đã học vào quá trình thiết kế, như phân nhỏ giải quyết từng phần, biến những
+mẫu đã có thành mẫu mới (bằng cách thay đổi một số đường nét, tính chất, làm cầu
+tròn hóa từ một mẫu vuông thành tròn…), gây ứng suất sơ bộ trước bằng cách phát
+ý tưởng (dù lớn hay nhỏ) và vẽ ra giấy mẫu cần thiết kế trước… rồi sau đó mới tạo
+mẫu lại trên máy vi tính và thiết kế các mũi chỉ thêu lên mẫu… Kết quả là thời gian so
+với trước đã được rút ngắn 1/3 và mẫu cần thiết kế chính xác và đẹp hơn. Môn
+PPLST còn giúp tôi trong các vấn đề tình cảm “được cải thiện hơn, tốt hơn”, do “hệ”
+đã được nghiên cứu sâu và kỹ hơn để giải quyết.
+ Phan Vũ Linh (họa sĩ, học khóa 164):
+
+1. Là họa sĩ, làm việc thường theo cảm tính. Môn học này giúp ích rất nhiều cho
+tôi trong việc củng cố vững chắc hơn cho sự sáng tác. Biết rõ và sâu xa hơn nguồn
+gốc của những ý tưởng bắt nguồn từ cảm xúc. Biến những ý tưởng mơ hồ thành hiện
+thực cụ thể dễ dàng hơn.
+2. Áp dụng vào thực tế sáng tác có được những ý tưởng mới và độc đáo, cách suy
+nghĩ, tư duy chuẩn xác hơn.
+3. Theo suy nghĩ của riêng tôi, môn học này cần trở thành một môn bắt buộc
+trong chương trình học của bậc phổ thông trung học. Đối với bậc đại học hay sau đại
+học như hiện nay thì đã là hơi muộn.
+4. Thông tin chiêu sinh đến với tôi hoàn toàn tình cờ và trước đây tôi không hề
+biết có môn học này. Do đặc trưng nghề nghiệp là sáng tạo nên tôi đã ghi danh học
+ngay và đã tiếp thu được nhiều điều bổ ích củng cố cho công việc cũng như cuộc sống.
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+373
+
+ Võ Thị Hải Hòa (marketing, học khóa 164):
+
+Sau hơn hai tháng được tiếp cận với khoa học về sáng tạo, qua lớp Phương pháp
+luận sáng tạo sơ cấp, tôi tự thấy mình đã thu được BA điều MỚI và ÍCH LỢI: (1) cách
+suy nghĩ giải quyết các vấn đề trong cuộc sống; (2) cách nhìn nhận các vấn đề và mối
+quan hệ; (3) cảm thấy tự tin và lạc quan hơn.
+Thứ NHẤT, với sự nhận thức đầy đủ hơn về các phương pháp tư duy (về đặc
+điểm, vai trò và các điểm hạn chế) tôi đã có thể tự trang bị cho mình một phương
+pháp tư duy mới: tư duy định hướng. Đó là việc giải quyết các bài toán, vấn đề hiệu
+quả hơn sau khi xác định đúng và đầy đủ các yếu tố, mối quan hệ trong hệ thống bài
+toán, đưa ra các mâu thuẫn mấu chốt và phát biểu chúng theo từng mức trừu
+tượng/tổng quát cao dần (mâu thuẫn hành chính, kỹ thuật và vật lý). Nhờ có tư duy
+định hướng, tập và quen dần với việc không sử dụng phương pháp thử và sai trong
+mọi trường hợp nữa, tôi đã tiết kiệm được nhiều thời gian, công sức và cả tiền bạc
+khi phải giải quyết các bài toán của cuộc sống: sinh hoạt, xã hội, học tập, làm việc…
+Đó chính là lợi ích to lớn mà tôi thu được với lối tư duy định hướng, tiếp thu từ khóa
+học Phương pháp luận sáng tạo sơ cấp.
+Thứ HAI, cùng với tư duy định hướng, sau khóa học tôi đã xây dựng được cách
+nhìn nhận thế giới xung quanh, hệ các yếu tố và các mối liên kết tốt hơn: nhìn đầy đủ,
+toàn diện hơn dưới nhiều góc cạnh, nhìn được bao quát, sâu sắc hơn với cả quá khứ,
+hiện tại và tương lai, và nhìn một cách khách quan hơn dưới các mối quan hệ nhân
+quả.
+Nhờ đó, các quyết định của tôi đúng đắn hơn, toàn diện hơn. Các vấn đề của tôi
+được giải quyết sâu sắc, triệt để hơn. Ngoài ra, các hành vi xã hội của tôi được xem
+xét cẩn trọng hơn; tôi có thể tự dẫn dắt mình “vượt lên chiến thắng chính bản thân”
+nhờ vào việc nhìn mọi thứ một cách hệ thống. Quan trọng nhất , tôi đã hiểu được quá
+trình sáng tạo và phát triển , nhờ đó tự cho mình hướng giải quyết vấn đề mới, sáng
+tạo và không còn phụ thuộc vào kinh nghiệm hay những lối mòn cũ.
+Thứ BA, cũng là hệ quả của hai điều ở trên, tôi đã cảm thấy tự tin và lạc quan
+hơn trước mọi sự việc, hiện tượng xảy ra cả bên trong và bên ngoài bản thân mình.
+Đó là kết quả của việc tự giải phóng mình khỏi những mối lo sợ, e ngại không rõ
+ràng, vô lý. Nhờ vào khả năng và sự tiến triển trong các mức hiểu đối với các vấn đề
+của bản thân và của mọi người, tôi đã tập được thói quen nhìn thẳng và nghiên cứu
+vấn đề thay vì e sợ và lảng tránh nó. Do vậy, tôi đã dần tạo cho mình được một phong
+thái tự tin và lạc quan trong mọi hoạt động của mình. Điều này là một trong những
+yếu tố quan trọng dẫn đến khả năng thành công cao hơn trong những môi trường
+
+374
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+đầy thay đổi.
+Trong quá trình học và cho đến bây giờ tôi đã và đang áp dụng được một số điều
+đã học như sau:
+Thứ nhất, với ý thức về sự tồn tại tính ì tâm lý và tác hại cản trở của nó đối với
+quá trình sáng tạo, tôi đã thử xem xét lại và thực hành một số cách làm giảm tính ì
+tâm lý như: đọc truyện khoa học viễn tưởng và để trí tưởng tượng phát triển tự do
+trong một số thời khắc; tham gia các hoạt động như các trò đố vui sáng tạo (các báo
+Tuổi Trẻ Chủ Nhật, Khoa Học Phổ Thông…), giải các nước cờ “bí”; tập mã hóa và xây
+dựng hệ thống ký mã hiệu riêng cho một số nội dung; tìm hướng đặt các vấn đề
+ngược lại với những cách thông thường; và tự xây dựng cho mình trạng thái thoải
+mái trong khi giải quyết vấn đề (nhờ vậy, tránh được một số trạng thái do ì tâm lý
+gây ra).
+Thứ hai, tôi đã tự xem xét lại quá trình giải quyết vấn đề của mình – phân tích nó
+và so sánh với quá trình giải quyết vấn đề theo định hướng. Nhận thấy hiệu quả hơn
+hẳn của hướng thứ 2, tôi quyết tâm tập cho được cách giải quyết theo hướng mới
+cho mọi vấn đề quan trọng của mình. Chẳng hạn đứng trước yêu cầu phải quyết định
+mua một món đồ có giá trị hay để số tiền đó chi cho việc khác, tôi xem lại các nhu cầu
+của mình và phân tích để tìm ra bài toán đúng, tức là xác định lại nhu cầu nào là cấp
+thiết nhất trong số các nhu cầu thực sự hiện tại. Từ đó, mới đi vào giải bài toán, tức
+là giải quyết phải mua thế nào, ở đâu,…
+Thứ ba, tôi đã tập nhìn nhận các vấn đề, các sự việc, hiện tượng theo hệ thống và
+tư duy hệ thống. Áp dụng điều này trong nhìn nhận lại các mối quan hệ xã hội, bạn bè
+và gia đình, tôi đã có được lời giải cho nhiều vấn đề quan trọng của mình. Đặc biệt,
+nhờ việc nhìn lại mình như là một yếu tố của các hệ thống; mối liên hệ giữa mình và
+các yếu tố khác; xác định lại tính chất thực sự cũng như vai trò tồn tại của hệ thống,
+tôi đã có những hướng hành động, cư xử hợp lý không chỉ trong gia đình, với bè bạn
+mà còn với các quan hệ xã hội khác.
+Thứ tư, đối với một số trường hợp đứng trước các vấn đề đặc biệt, khi có đủ thời
+gian để nghiền ngẫm thử, tôi đã tập phân tích bài toán và sử dụng hệ thống 40
+nguyên tắc cơ bản. Trong một số trường hợp (tuy còn hơi ít) hướng gợi í từ các
+nguyên tắc đã dẫn đắt đến lời giải độc đáo và có thể áp dụng được. Tuy các trường
+hợp đó khá đơn giản và không tiện đưa ra làm ví dụ điển hình ở đây, tôi dự định sẽ
+tập thói quen này và sử dụng cho nhiều trường hợp hơn, trong các tình huống phức
+tạp hơn. Ngoài ra, đối với hệ 40 nguyên tắc cơ bản, để nhớ được lâu dài và hiệu quả,
+tôi đã tập sử dụng và phân tích các nguyên tắc này cho những trường hợp bài toán
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+375
+
+đã được giải, phát biểu lại theo ngôn ngữ mới và nhận xét tính hiệu quả, sáng tạo
+của lời giải cũ.
+Thứ năm, khi phải đứng trước một bài toán khó, tôi đã thử sử dụng các phương
+pháp tích cực hóa tư duy sáng tạo đã học, trong đó phương pháp tôi cảm thấy dễ
+dùng và phù hợp hơn cả là phương pháp não công và Synectics. Chẳng hạn, trong các
+vấn đề về Marketing liên quan đến công việc hay học tập của mình, tôi đã sử dụng
+phương pháp brainstorming, cùng với các đồng nghiệp hay bạn bè đưa ra các yếu tố,
+hướng đi,… Sau đó, kết hợp thêm với phương pháp Synectics, tôi có thể tìm được
+những hướng giải độc đáo, đề ra các biện pháp hay chiến lược Marketing “rất sáng
+tạo”.
+Ngoài ra, tôi dự định sẽ sử dụng một số kiến thức đơn giản, nhưng quan trọng
+của sáng tạo, như các quá trình, chuỗi nhu cầu-hành động, bản chất của sáng tạo,…
+để hướng dẫn và phân tích cho người thân (em, cháu, anh, chị,…) hay bạn bè và cả
+thủ trưởng của mình. Thông qua đó, tôi sẽ hướng dẫn cho họ đến việc giải quyết các
+vấn đề của họ theo hướng mới, tích cực và rồi tự họ sẽ có quyết định tìm hiểu thêm
+môn học sáng tạo. Nhờ vậy, mọi người có thể cư xử tốt hơn thực sự, hành động có
+hiệu quả hơn thực sự và môi trường xã hội sẽ bớt nhiều vấn đề phức tạp.
+ Nguyễn Kim Sơn (kỹ sư điện tử, học khóa 276):
+
+Sau khi học xong môn học phương pháp luận sáng tạo Em có những điều nhận
+xét như sau:
+* Em đã học được một phương pháp suy nghĩ giải quyết vấn đề và ra quyết định
+rất hay và hiệu quả, có thể áp dụng trong mọi lãnh vực của cuộc sống.
+* Môn học đã giúp cho em có một tầm nhìn mới khác hẳn ngày xưa (cách nhìn
+theo hệ thống và tư duy hệ thống). Nó giúp em có cách nhìn các tình huống có vấn đề
+một cách toàn diện và sâu sắc hơn, giúp cho em có thể đưa ra các quyết định chính
+xác và hạn chế được sự trả giá (đôi khi là quá đắt trong cuộc sống ).
+Trong cuộc sống chúng ta chỉ suy nghĩ khi có vấn đề xảy ra. Còn bình thường thì
+thả nổi không suy nghĩ hoặc chỉ làm theo những thao tác, lề lối quen thuộc. Điều này
+có thể gây ra những tác hại không thể lường trước trong cuộc sống. Ví dụ như khi
+quen thuộc với một công việc nhất định, với những công cụ quen thuộc, khi đổi công
+cụ mới thì con người cảm thấy không phù hợp, sẽ làm hoặc áp dụng sai. Tính ỳ được
+người học suy ra từ ngành điện tử nó tương tự như khi tác động đến tụ điện và cuộn
+dây (tụ điện thì điện áp chậm pha hơn dòng điện 90 độ, còn cuộn dây thì dòng điện
+chậm pha hơn điện áp là 90 độ), khi áp một điện áp trên tụ thì điện áp trên tụ sẽ tăng
+
+376
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+từ từ (không tăng đột ngột được) còn khi đưa dòng điện chạy qua cuộn dây thì dòng
+điện cũng sẽ tăng từ từ. Đó là do các điện áp dòng điện, do bản thân tụ điện và cuộn
+dây gây ra chống lại sự thay đổi điện áp và dòng điện trên nó.
+Ví dụ: khi qua Mỹ một số người thấy TIVI LCD bên Mỹ rẻ nên mua về Việt Nam,
+nhưng thực sự khi đem về Việt Nam thì không sử dụng được vì hệ màu ở Mỹ là hệ
+NTSC còn ở Việt Nam là hệ Pal.
+Ví dụ: khi lắp mới máy tính mua ở Việt Nam thì không có vấn đề gì xảy ra nhưng
+khi lắp máy tính mới với các linh kiện mua ở Mỹ thì sẽ dễ dàng bị hư vì (điện áp sử
+dụng cho bộ nguồn ở bên Mỹ là 110 V).
+Cách duy nhất để có thể suy nghĩ và ra quyết định một cách hợp lý là luôn phải
+tìm mọi cơ hội để ứng dụng phương pháp luận sáng tạo vào trong công việc cuộc
+sống, phải học và thực hành phương pháp luận sáng tạo liên tục thì mới có thể sử
+dụng tốt nó trong công việc cũng như trong cuộc sống. Tính ỳ còn thể hiện rõ như:
+khi sử dụng quen với kiểu gõ VNI thì người sử dụng rất khó sử dụng vói kiểu gõ Telex
+và ngược lại.
+Em đã ứng dụng phương pháp luận sáng tạo vào trong ngành điện tử: ứng dụng
+ngày 03/06/2006 từ 9 h 30 đến 17 g 30.
+Bài toán đặt ra: có một máy dùng để đo các thông số WBC, RBQPLT... (bạch cầu,
+hồng cầu và tiểu cầu trong máu) hiện thời máy bị hư hỏng: khi đo máy không sử
+dụng bệnh phẩm (huyết thanh) thì kết quả đo phải có các giá trị = 0. Tuy nhiên giá trị
+đo WBC, RBC, PLT không ổn định lúc = 0 (xảy ra ít), lúc có giá trị rất cao (xảy ra
+nhiều), tất nhiên khi đo với huyết thanh thì kết quả sẽ sai rất xa so với giá trị đúng
+của nó.
+Thông thường khi hệ thống có trục trặc xảy ra thì người ta nghĩ đến những điểm
+chung nhất trong hệ thống. Vì WBC sử dụng đo với một buồng đếm riêng, RBC và PLT
+sử dụng chung với một buồng đếm thứ hai. Nên thông thường các hư hỏng thường
+xảy ra là hóa chất, hệ thống thủy lực, là các nơi sử dụng chung cho cả hai buồng đếm.
+Kết quả không phát hiện được hư hỏng.
+Buồng đếm WBC có hai dây nối tương tự như hai cực của một điện cực, khi các
+tế bào WBC đi qua màng đếm ngăn cách giữa 2 điện cực thì sẽ tạo ra một xung điện,
+người ta sử dụng mạch vi xử lý để đếm số xung điện trong một giây -> số lượng WBC.
+Tại thời điểm quá khứ sợi dây mass bị đứt (do sợi dây mass và dây tín hiệu nằm
+chung trong một lõi nên rất khó tháo). Vì vậy đã gắn thêm một sợi dây mass bên
+ngoài -> máy đã chạy được vài tháng rồi mới hư hỏng. Nếu chỉ dựa vào khẳng định
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+377
+
+hệ đã chạy tốt trong quá khứ rồi thì hiện tại cũng sẽ chạy tốt mà không chú ý đến
+những bộ phận khác trong máy thì sẽ không tìm ra hư hỏng. May sao trong công ty
+cũng có một máy hư hỏng ở một nơi khác và đã chạy tốt. Quan sát thấy máy đang
+chạy tốt có thêm một vòng lọc nhiễu bằng Ferit mắc bên ngoài đường dây tín hiệu
+WBC. Thử tháo ra và gắn vào trong máy hư thì khi đo không có máu kết quả WBC
+luôn = 0 (hoạt động tốt) ??? Như vậy chứng tỏ rằng kết quả đo sai khi không gắn
+vòng lọc nhiễu là do nhiễu bên ngoài tác động vào máy. Nên biết rằng loại máy đang
+bị hư hỏng này là đời trước nên không có bộ lọc nhiễu. Trong điện tử thì có đề cập
+đến một vấn đề để chống nhiễu thì các đường dây liên lạc phải được liên kết với nhau
+(cùng chịu ảnh hưởng của nhiễu) thì khi đưa đến mạch khuếch đại vi sai do hai
+thành phần đều cùng pha nên ngõ ra = 0 (nhiễu bị triệt tiêu), Người học chỉ cần bó
+sợi dây mass nối thêm vào song song với dây tín hiệu WBC có đường mass bị đứt là
+thông số WBC trở lại trạng thái bình thường. Ở đây thấy rõ là hệ đã hoạt động với
+một yếu tố mới ở quá khứ (đường dây mass nối thêm nhưng được đi song song với
+đường dây cũ), ở thì hiện tại (trải qua thời gian khoảng 3 tháng) hệ đã lại có vấn đề
+(và cách giải quyết thật đơn giản cũng như việc gõ một nhát búa làm cho máy chạy
+trở lại).
+Vì đã xác định đúng huyệt của bài toán nên thông số WBC đã hoạt động bình
+thường. Nhưng thông số PLT lại bị tình trạng tương tự như vậy. Bằng kinh nghiệm
+xác định thấy vấn đề nảy sinh cũng là do dây mass của buồng đếm theo thời gian sử
+dụng đã tăng từ giá trị bình thường 0 ohm lên 52 ohm. Tiến hành thực hiện tương tự
+như buồng đếm WBC là bỏ đường dây mass cũ và gắn thêm đường dây mass mới ->
+máy vẫn tồn tại lỗi không khắc phục được. Nhớ lại kiến thức phải tận dụng các
+nguồn dự trữ có sẵn trong hệ mà không phải mất tiền mua -> gắn trở lại đường dây
+mass cũ kết hợp với đường dây mass mới -> không tác dụng. Yếu tố nảy sinh bài toán
+chính là đường dây mass này, tuy nhiên đường dây mass này cũng rất khó tháo và
+sửa chữa. Để chắc chắn, người học sử dụng nguyên tắc tách khỏi với cái máy tốt là
+tháo buồng đếm RBC của máy tốt sang gắn ở máy hư -> máy hoạt động bình thường.
+Người học tiến hành gỡ đường dây mass của buồng đếm máy đang hư và nối lại ->
+máy chạy bình thường. Ở đây người học đã khắc phục được phần nào tính ý tâm lý ở
+chỗ, không đem kết quả của buồng đếm WBC áp dụng vào y chang vào buồng đếm
+RBC vì xét cho cùng chúng là hai hệ khác nhau (về biên độ tín hiệu WBC >RBC>PLT)
+mà biên độ tín hiệu càng nhỏ thì tác động nhiễu của môi trường bên ngoài càng ảnh
+hưởng lớn vì vậy các yêu cầu để hệ hoạt động tương hợp sẽ khắt khe hơn. Em cũng
+có một phần tự hào nho nhỏ là đã sửa một trường hợp rất khó khăn trong thời gian
+tương đối ngắn (nếu không tính thời gian mất điện thì mất khoảng nửa ngày). Trước
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+378
+
+đó đã có 3 người sửa (trong đó có những người xét về kinh nghiệm là bậc đàn anh
+của người học, xét về thời gian 2 người đầu tiên mất 4 ngày, người thứ ba mất 3
+ngày) còn người học chỉ mất có nửa ngày. Đó là chưa thực sự áp dụng một cách
+thành thạo phương pháp luận sáng tạo vì người học đang học khóa 276.
+Về những bước kế tiếp để áp dụng kiến thức đã học trong tương lai: em đang đọc
+lại giáo trình một cách cẩn thận, xem lại các ví dụ trong lớp, đưa ra thêm các ví dụ
+mới hơn và cố gắng biến kiến thức đã học thành kiến thức của riêng mình. Em đang
+áp dụng chương trình rút gọn và quá trình suy nghĩ giải quyết vấn đề và ra quyết
+định với các công việc cần ra quyết định trong cuộc sống hàng ngày. Nhờ quá trình
+học và giải các bài tập ở lớp, tính ỳ của người học đã được khắc phục một phần nào,
+người học cảm thấy tự tin hơn và can đảm hơn trong cuộc sống cũng như quá trình
+ra quyết định, cảm thấy thế giới xung quanh như gần gũi hơn, thân mật hơn.
+Người học trước hết sẽ đọc lại toàn bộ kiến thức đã được học sau đó sẽ tiến hành
+áp dụng các phần kiến thức như:
+- Chương trình rút gọn quá trình suy nghĩ và giải quyết vấn đề, 40 thủ thuật và
+bảng các nguyên tắc dùng để giải quyết mâu thuẫn kỹ thuật.
+o Áp dụng cho công việc trong việc thiết kế các mạch điện tử.
+o Áp dụng trong cuộc sống: định hướng và tìm lời giải cho các bài toán đặt ra
+trong gia đình, học hành,..
+o Khắc phục tính ỳ tâm lý, mở rộng khả năng tưởng tượng và dự báo các tình
+huống xảy ra trong tương lai. Vì quá trình dùng trí tưởng tượng mà dự báo đúng các
+tình huống xảy ra trong tương lai sẽ đem lại ích lợi và không phải trả giá.
+- Sử dụng tư duy hệ thống, quy luật phát triển hệ thống, hệ thống biến đổi mẫu
+để xem xét và ra quyết định đối với các bài toán phức tạp.
+- Sử dụng các phương pháp tích cực hóa tư duy để khắc phục tính ỳ tâm lý và
+đưa ra được nhiều ý tưởng sáng tạo có ích. Biến thách thức thành cơ hội, biến trái
+chanh mà mình nhận được từ cuộc sống thành một ly nước chanh ngon ngọt.
+Môn học này cần phải được giảng dạy một cách chính thức ở năm đầu tiên của
+đại học.
+ Lê Thái Hằng (cử nhân, học khóa 304):
+
+Trước khi tham gia môn học “Phương pháp luận sáng tạo”, mỗi khi gặp vấn đề,
+tôi thường phải suy nghĩ rất nhiều hướng để tìm cách giải quyết, dựa theo kinh
+nghiệm của tôi hay những điều mà tôi rút ra từ cách giải quyết của những người
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+379
+
+khác trong các hoàn cảnh tương tự. Các suy nghĩ này đến một cách tự nhiên và đa
+phần mang tính chủ quan. Do cách thức đó, nó ngốn của tôi rất nhiều thời gian từ lúc
+suy nghĩ cho đến khi ra quyết định cách giải quyết vấn đề.
+Sau khi theo khóa học này, tôi được tiếp xúc với cái mới là “hệ thống các phương
+pháp giải quyết vấn đề” và với công cụ mới được trang bị này, tôi đã, đang và sẽ gặt
+hái nhiều ích lợi.
+Ích lợi đầu tiên là tôi biết cách tìm kiếm đâu là mấu chốt phát sinh các vấn đề
+gặp phải và nhờ vào cơ chế tư duy định hướng tôi có thể rút ngắn thời gian giải
+quyết vấn đề và ra quyết định so với trước đây.
+Ích lợi thứ hai là tôi trở nên tự tin, lạc quan hơn trong cuộc sống vì biết rằng các
+vấn đề nảy sinh cũng theo quy luật. Ta cứ tự tin bắt đầu bước vào con đường giải
+quyết vấn đề đó hơn, vì khả năng đi đến cuối con đường nhìn thấy được. Chính vì thế
+giảm đi rất nhiều số lượng các suy nghĩ lo lắng, sợ sệt, thậm chí nếu ta đã đi đúng con
+đường giải quyết vấn đề.
+Và vô số các ích lợi nhỏ khác mà tôi có thể sắp xếp vào hai nhóm lớn ở trên.
+Trước đây và cho đến bây giờ cũng vậy, tôi thường hay bất đồng quan điểm với
+mẹ tôi. Có thể nói là do khoảng cách giữa hai thế hệ hoặc nói vui theo hướng tâm linh
+là khắc số. Dầu gì đi nữa, tôi với mẹ rất khó sống chung hòa thuận dù cả hai mẹ con
+đều thương nhau. Tôi cố gắng đặt mình vào vị trí của mẹ để cảm thông dù là gượng
+ép với những suy nghĩ bảo thủ đó hết từ năm này qua năm khác. Thời gian dần trôi
+qua 6, 7 năm, những nỗ lực của tôi đều vô ích, vì chẳng nhận được bất cứ phản hồi
+dương nào từ mẹ để như là một nguồn động lực thúc đẩy tôi tiếp tục trên con đường
+đó. Trái lại, mẹ tôi giả vờ như không nhận thấy bất kỳ sự nỗ lực nào của con gái
+mình, mà càng ngày càng trở nên ích kỷ, vô lý hơn nữa. Tôi rất buồn, thấy mình bất
+hạnh, khi bất chợt thấy một hình ảnh ấm áp tình mẹ con, những cuộc nói chuyện, tâm
+sự của 2 mẹ con cô bán quán cơm bình dân mà tôi thường hay ăn mỗi khi buổi trưa ở
+lại trường. Những cuộc nói chuyện trên đài phát thanh về cách thức những bậc làm
+cha mẹ phải làm để tìm hiểu tâm tư, tình cảm của con cái… đều làm tôi tủi thân dữ
+dội. Tôi cảm thấy mình không may mắn khi thiếu vắng tình cảm của cha rồi, thậm chí
+mẹ tôi còn đối xử như vậy. Người ta thường nói “nước mắt chảy xuôi” nhưng tại sao
+tôi lại không thấy vậy. Bố mẹ tôi li dị cách đây 5 năm, lúc tôi học lớp 12 và chuẩn bị
+thi vào đại học, để lại cho tôi một sú sốc tinh thần lớn. Tôi sống với mẹ và em trai, coi
+sóc mọi việc trong nhà và chăm sóc dạy dỗ đứa em trai còn nhỏ để mẹ yên tâm đi làm,
+vừa lo lắng cho bố tôi đủ thứ kể cả chuyện tiền bạc vì bố rất khó khăn trong lúc này
+và ra đi hai bàn tay trắng. Thêm nữa, tình hình sức khỏe của tôi ngày càng xuống,
+
+380
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+ảnh hưởng đến khả năng học tập và làm việc của tôi. Đứng trước vấn đề chính đó, và
+hàng chuỗi các vấn đề phát sinh nằm trong 3 nhóm trên, tôi thấy mình như cạn kiệt,
+không biết nên làm gì cả. Từ chỗ khó khăn, tôi biết cách đặt thứ tự ưu tiên cho từng
+vấn đề. Từ đó, tôi xác định ưu tiên là sức khỏe. Nếu có sức khỏe tôi có thể quay lại giải
+quyết tiếp các vấn đề còn lại.
+Sau đó, tôi tham gia khóa học Phương pháp luận sáng tạo, tới chương các quy
+luật phát triển hệ thống, với quy luật 1 phát biểu về tính đầy đủ của hệ thống tôi thấy
+mình đã thiếu bộ phận truyền động của hệ tự lập chính là sức khỏe, cái vấn đề ưu
+tiên của tôi. Do vậy, tôi tin rằng mình đã quyết định đúng (có thể là do thử và sai có
+hệ số nhỏ nên tôi may mắn trúng).
+Trong mối quan hệ giữa tôi với mẹ, tôi thấy rằng trong sự thông cảm, nhường
+nhịn tôi dành cho mẹ, thiếu hẳn yếu tố động cơ là nhu cầu của chính tôi. Do vậy nó
+không thúc đẩy tôi nhường nhịn mẹ nữa khi không còn thấy sự tương hợp. Nhưng tôi
+biết rằng mối liên kết giữa tôi và mẹ là không thể chối cãi, thế thì sao bây giờ? Tôi lại
+nghĩ, mẹ tôi lớn tuổi rồi, số lượng các đường mòn suy nghĩ trong não lớn rồi, tính ì
+tâm lý càng cao, có bất đồng với mẹ cũng khó thay đổi lắm. Cái gì mẹ sai, mẹ thay đổi
+được thì mừng, không thay đổi được thì đừng lấy làm buồn quá. Tôi đã phần nào giải
+tỏa tâm lý cho mình một cách tự nguyện, chứ không phải bắt buộc tự an ủi là mình
+như vậy vẫn còn hạnh phúc hơn những người khác, nhưng rồi cũng tủi thân đó, cũng
+cảm thấy bất hạnh đó như trước đây.
+Điều rõ rệt nữa là, tôi áp dụng thủ thuật chuyển sang “chiều khác” khá là hiệu
+quả. Bố tôi có một khoảng thời gian dài phạm sai lầm dẫn tới đánh mất uy tín và
+lòng tin của mọi người. Tôi chuyển sang ở với bố một mặt là vì nhu cầu của mình,
+mặt khác là chuyển sang nhiệm vụ mới: kề cận, khuyên nhủ bố tôi trước hết là tránh
+xa việc lặp đi, lặp lại lầm lỗi. Chuyện bố tôi cho người chị kết nghĩa mượn tiền,
+chuyện bố tôi mua mắt kính xịn, bố tôi bị mất xe... đến dồn dập. Người cô ruột của tôi
+bực mình “Ổng mới có chút ít tiền sao không để đó phòng thân mà đem cho người
+dưng mượn?” “Tao có tiền đây mà còn không dám mua cái kính mắt xịn nữa là nói
+chi ổng!” “Chắc bố mày đi cầm xe để cờ bạc hả”
+Thật sự, khi sự việc xảy ra, tôi đã từng có quan điểm giống cô tôi trong thời gian
+đầu. Sau đó, tôi nghĩ lại thấy nếu với cách xem xét như vậy, tôi chỉ buồn khổ thêm ra
+và cũng chẳng giúp đỡ bố tôi vượt qua khó khăn, chứng minh được là bố tôi đã tiến
+bộ rất nhiều so với thời gian lầm lỗi trước. Từ đó, tôi xem xét sự việc theo chiều khác
+và cảm thấy lạc quan hơn, yên tâm hơn về bố tôi. Bố cho chị kết nghĩa mượn tiền vì
+ông sống có tình có nghĩa. Người chị này tuy không ruột thịt nhưng cho ông tá túc
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+381
+
+lúc ông không chỗ trú ngụ, người luôn tin tưởng, xem trọng, thấy được con người
+luôn sống vì người khác của ông, điều mà thời gian dài qua, ông không tìm thấy nơi
+những người trong gia đình. Thì việc gì lúc chị khó khăn, dầu ông chưa ổn định cuộc
+sống, dầu ông chỉ mới có chút tiền, nhưng những giúp đỡ như thế này ấm áp tình
+người biết bao. Nghĩ như vậy, tôi thấy hãnh diện vì mình có người bố như thế. Và sau
+này có dịp kiểm chứng, tôi càng tin vào nhận xét của mình là đúng. Còn chuyện mua
+kính, thay cho lối suy nghĩ trước, tôi thấy may mắn hơn vì bố tôi để dành tiền để lo
+cho bản thân mình, tôi sẽ đỡ phải lo từ A đến Z cho bố, với lại nếu bố tôi có tiền ai
+chắc hoàn toàn là ổng không quay lại đường cờ bạc nếu cần nhiều tiền hơn từ số tiền
+nhỏ đó. Chuyện mất xe, thay vì ngồi lo trách móc, nghi ngờ trong khi mọi việc đã rõ
+như ban ngày là mất xe thiệt, tôi giúp đỡ bố tôi tìm cách để có phương tiện di chuyển
+như mua trả góp, mua xe cũ... vì khả năng tài chính chưa đáp ứng đủ để mua xe mới.
+Và còn nhiều áp dụng khác, thậm chí trong thời gian tới tôi sẽ áp dụng các kỹ
+năng này vào công việc... tôi rất biết ơn các thầy ở Trung tâm đã cung cấp cho tôi
+công cụ vạn năng này, tôi sẽ cố gắng luyện tập để kỹ năng này trở thành bản năng
+ngấm vào máu thịt.
+Em nghĩ cỡ học sinh lớp 8 trở đi, các nhân viên công ty, các lãnh đạo, các nhà
+quản lý, các thành phần trong xã hội cần quan tâm đến môn học này. Do vậy, phải
+thông tin cho mọi người biết là có một môn học mang tên như thế này, giống như
+quảng cáo vậy, họ phát thường xuyên để mọi người chú ý đến. Đó là một cách nếu
+như ở nước ta, các nhà lãnh đạo có trách nhiệm vẫn chưa chịu phát triển, hỗ trợ môn
+học này.
+Em tự đánh giá mình còn nhỏ bé, chưa đủ sức để giúp môn học này phát triển ở
+nước ta. Nhưng với sức của em, em có thể cổ vũ những người em quen biết tham gia
+môn học này. Nếu nhiều học viên làm như em thì biết đâu sự thay đổi về lượng đủ lớn
+để dẫn đến sự thay đổi về chất?
+Em nhận được thông tin chiêu sinh từ người bạn thân học cùng lớp cách đây 4
+năm, nhưng vì lý do sức khỏe, hay nhức đầu em không tự tin theo khóa học này.
+Qua lời kể của bạn em, em rất yêu thích môn học, được đọc qua sách vở, tài liệu
+mà bạn từng học, em quyết định ghi danh học.
+ Lê Thanh Tường Vy (kỹ sư hóa, học khóa 304):
+
+Có thể nói, sau khóa học 2 tháng của khóa sơ cấp môn học “Phương pháp luận
+sáng tạo”, cách nhìn cuộc sống và cách tư duy của tôi đã có một thay đổi lớn.
+- Trước đây, khi làm bất cứ việc gì, tôi chỉ thực hiện theo ý nghĩ chủ quan của
+
+382
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+bản thân. Bây giờ, biết rõ tính chủ quan trong cách tư duy, tôi đang tìm cách khắc
+phục để tránh những tác hại của “tính ì tâm lý”. Cách nhìn nhận và giải quyết vấn đề
+của tôi bây giờ khách quan hơn “thoáng” hơn và hợp lý hơn.
+- Đúng như các thầy nói, “Cuộc đời con người là một chuỗi các vấn đề phải giải
+quyết, một chuỗi các quyết định cần phải ra”. Vậy rõ ràng khóa học đã giúp tôi sống
+tốt hơn, như thầy Phan Dũng vẫn bảo “Làm sao để cuộc đời là bể sướng”. Cách giải
+quyết vấn đề theo kiểu phương pháp thử và sai đã hạn chế cuộc sống và cách tư duy
+của chúng ta rất nhiều, do vậy, được học phương pháp luận TRIZ đã làm tư duy của
+tôi có những thay đổi vượt bậc (cho bản thân).
+- Tôi hiểu ra rằng trước các lời giải đưa ra để giải quyết các vấn đề, ta phải lựa
+chọn bài toán cụ thể đúng cần giải (tức là phương án khả thi nhất). Đó là bài toán
+làm hệ thay đổi ít nhất (để tránh hiệu ứng lan tỏa). Và khi tìm cách giải bài toán này,
+ta phải giải quyết cho được cái huyệt của bài toán, chính là mâu thuẫn vật lý.
+- 40 nguyên tắc sáng tạo cơ bản và hệ thống các phép biến đổi mẫu là một kho
+các ý tưởng mà tôi có thể dùng mãi vẫn không cạn.
+Và khi nhìn một vấn đề, một bài toán theo kiểu hệ thống và các mối liên kết, cách
+nhìn này giúp tôi không bỏ sót bất cứ vấn đề liên quan nào của bài toán. Phương
+pháp này hữu dụng trong tất cả các lĩnh vực từ kỹ thuật, kinh tế, nghệ thuật...
+Mặc dù đối với tôi, TRIZ quả thực hơi khó nắm bắt và vận dụng, nhưng tôi hy
+vọng mình sẽ áp dụng được TRIZ vào suốt cuộc đời mình, bởi vì TRIZ là một công cụ
+tư duy tuyệt vời nhất mà tôi được biết.
+* Nói tóm lại, sau khóa học, tôi đã biết được nhiều phương pháp tư duy, giải
+quyết vấn đề tuyệt vời, làm thay đổi hệ thống tư duy và thay đổi một phần cuộc sống
+và hành động của bản thân.
+- Là một kỹ sư vừa tốt nghiệp ngành hóa, TRIZ đã giúp tôi giải được và hiểu
+được một số quy luật trong kỹ thuật, giải được một số bài toán và cho tôi cách giải
+quyết chính xác nhất. Rõ ràng, trí óc tôi đã “sáng” hơn, không còn “tối tăm”như
+trước, không còn phải mò mẫm khi phải ra quyết định.
+- Ngay cả những hành vi trong cuộc sống hàng ngày, tôi cũng làm tốt hơn khi
+dùng TRIZ và các phương pháp tích cực hóa tư duy. Từ việc nấu nướng, dọn dẹp và
+cả giao tiếp, tôi đã phần nào ứng dụng được các phương pháp bổ ích này.
+Ban đầu, tôi đăng ký khóa học là do tính tò mò và ham hiểu biết là chính. Mặc dù
+thầy Dũng đã hết lòng truyền đạt những kiến thức môn học này ở Việt Nam từ lâu,
+nhưng rõ ràng, nó vẫn còn khá mới mẻ với đa số người dân Việt Nam. Dù là trên thế
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+383
+
+giới, người ta đang quý trọng và phát triển TRIZ rất nhiều, ở nước ta người ta vẫn
+nghi ngờ nó và không quan tâm nhiều đến TRIZ. Một số bài báo có viết về TRIZ và lớp
+học Phương pháp luận sáng tạo của thầy Phan Dũng, nhưng theo tôi nghĩ, như vậy
+vẫn chưa đủ chút nào. Ích lợi của môn học này là rất lớn, cần phải cho mọi người
+hiểu rõ về nó, để có thể vận dụng nó trong đời sống hàng ngày.
+- Theo tôi, tất cả những ai có ý thức về cách cải tiến tư duy, những ai có nền tảng
+kiến thức cơ bản và ham hiểu biết đều có thể học lớp sáng tạo này. Nên bắt đầu học
+từ 18 tuổi hoặc hay nhất là khi hoàn thành chương trình lớp 9 trung học cơ sở, bắt
+đầu học lớp 10 PTTH là nên học môn này.
+- Để giúp môn học này phát triển, tôi thường kể cho các bạn tôi nghe về nội dung
+và những lợi ích thiết thực của môn học, giúp các bạn hiểu hơn về nó và có thể các
+bạn sẽ đăng ký học một ngày không xa.
+Cuối cùng, xin gởi lời cám ơn chân thành nhất đến tất cả các thầy ở Trung tâm.
+Chúc các thầy luôn vui vẻ, mạnh khỏe và luôn tràn đầy nhiệt huyết truyền đạt kiến
+thức, giúp thế hệ trẻ Việt Nam đổi mới tư duy và tiến ra thế giới.
+ Trịnh Xuân Thọ (tốt nghiệp đại học, học khóa 322):
+
+Những điều mới và lợi ích so với trước khi theo học môn học “PPLST”: tôi cảm
+thấy khi xem xét một vấn đề bất kỳ nào đó thường có tính bao quát hơn, dự báo được
+những tình huống mới có thể phát sinh, có tầm nhìn xa hơn trước, nhờ thế mà biết
+“lo xa” hơn. Khi xem xét một vấn đề nào đó thường có tính cởi mở hơn làm cho con
+người có cảm giác vị tha hơn, do vậy cảm thấy thoải mái hơn. Hơn nữa nó làm khắc
+phục tính ỳ tâm lý, làm cho bản thân tôi suy nghĩ tích cực hơn, chịu khó tìm hiểu để
+có được lời giải “đột phá”.
+Áp dụng cho bản thân và những người xung quanh:
+- Đối với bản thân: như tôi đã trình bày ở trên thì nó còn giúp tôi cảm thấy mình
+“thông minh” lên một tý vì tôi áp dụng phương pháp này thì giải quyết một bài toán
+nào đó hiệu quả hơn. Tránh việc thử và sai làm mất thời gian, tốn tiền bạc, sức lực...
+- Với những người xung quanh thì qua những bài toán gần gũi của mình và của
+họ, tôi tạo ra một cách nhìn mới hơn về chiều rộng, chiều sâu. Các phương án tôi đề
+nghị thì có nhiều hơn và phù hợp trong từng hoàn cảnh khác nhau.
+Việc phát triển môn học ở nước ta: có thể nói tôi khá bất ngờ (quá bất ngờ) với
+hai lý do:
+- Lý do thứ nhất là tại sao bây giờ mới được biết môn học này. Tôi xin kể về
+
+384
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+“chuyện của tôi” một chút về mong muốn của tôi trước đây. Trước đây (khoảng năm
+2002) tôi có xem một cuộc thi hoa hậu của VN, có một câu hỏi làm tôi nhớ đến bây
+giờ, đó là “Nếu có 3 điều ước, bạn sẽ ước điều gì”. Tất nhiên thí sinh trả lời một câu
+an toàn và rất hoa hậu là: ước có thêm 1.000 điều ước nữa và nó đều trở thành sự
+thật. Lúc đó tôi tự hỏi mình rằng nếu cô ấy làm thế đúng hay sai (giả sử điều ước sẽ
+là sự thật) và ai sẽ trả giá cho những điều ước không tốt cho ai cả, mà có khi còn làm
+hại người ta, hại cả nhân loại chẳng hạn. Khi đó tôi chỉ mong cô ấy trả lời một điều
+ước là cô ấy ước được thông minh và khi thông minh như ước muốn rồi hãy ước tiếp.
+Còn nếu muốn có giải cao thì có thể “giả tạo” thêm là “em hy vọng đủ sáng suốt để
+ước hòa bình và thịnh vượng cho thế giới này”. Chính vì có ý nghĩ “dạy khôn” người
+đẹp nên ý nghĩ muốn trở nên sáng suốt luôn là một sự khao khát chính trong con
+người tôi trong mấy năm qua. Và chính nhờ nó mà khi đọc được thông báo của TSK
+trên báo Thanh Niên tôi đã tìm hiểu qua website và đăng ký ngay. Vì vậy tôi rất bất
+ngờ khi mà bây giờ tôi mới được học môn hữu ích này (mặc dù phương pháp luận
+sáng tạo đã dạy ở Việt Nam từ năm 1977).
+- Lý do thứ 2 tôi bất ngờ là: môn học này đã bị chính phủ không nhiệt tình tiếp
+cận lắm. Mặc dù trong định hướng phát triển của chúng ta là “đi tắt đón đầu”. Trước
+khi tôi học TRIZ tôi đã được tìm hiểu nguyên lý kim tự tháp MINTO của BARBARA
+MINTO. Hồi đó tôi cảm thấy nguyên lý này “được” lắm rồi. Nhưng khi tiếp cận với
+TRIZ tôi nhận ra rằng TRIZ rất mạnh và sức mạnh của nó đưa tôi tới những lời giải
+ấn tượng, vượt ngoài sự mong đợi của mọi người. Ngoài ra cơ chế định hướng của
+nó làm xóa mất tính ỳ tâm lý thường có và đưa ra được nhiều lời giải để lựa chọn,
+nếu không sử dụng lời giải lần này thì có thể xem xét những lời giải khác cho lần sau.
+TRIZ khiến cho người giải bài toán làm chủ bài toán thay vì phải loay hoay chạy
+“vòng vòng” quanh lời phát biểu cũ của bài toán và cứ “vòng vòng” thế bài toán lại
+làm chủ chúng ta. Ngoài ra từ khi có TRIZ tôi thấy mình CAO THƯỢNG hơn về cách
+nhìn và cách nghĩ, tôi cảm thấy mình “tốt bụng hơn”. Khi chưa có TRIZ tôi sợ đối mặt
+với thách thức, còn từ bây giờ thách thức sẽ là đòn bẩy tôi lên đỉnh cao.
+Cho tôi bày tỏ sự cảm ơn tới các thầy đã dạy tôi trong 15 ngày vừa qua. Tôi bây
+giờ rất tự tin, tự tin hơn bao giờ hết. Các thầy rất TUYỆT VỜI.
+Nguyện vọng của tôi: Nếu có thể thì các thầy có thể mở rộng quy mô hơn bây giờ
+được không vì tôi thấy TRIZ là quá tuyệt vời. Xa hơn nữa sẽ có thể có một khoa về
+PPLST trong trường đại học hay là có viện nghiên cứu về nó. Tôi nói cho có thôi,
+nhưng điều này chắc ai cảm nhận được về nó thì đều có ý kiến như thế cả và nguyện
+vọng của tôi chắc là thứ 17.000+...
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+385
+
+Tôi đã nhận được thông tin chiêu sinh từ báo Thanh Niên. Và quyết định ghi
+danh theo học là do đã “trót dại” chỉnh câu trả lời của một người đẹp dự thi hoa hậu
+qua truyền hình.
+ Cao Thành Trung (cử nhân kinh tế, học khóa 347):
+
+Kính thưa thầy Phan Dũng cùng các thầy giáo trong Trung tâm Sáng tạo Khoa
+học-kỹ thuật (TSK). Trước tiên em xin tỏ lòng biết ơn sâu sắc tới các thầy giáo, đặc
+biệt là thầy Phan Dũng vì đã cung cấp cho em những kiến thức tuyệt vời từ môn học
+này:
+Hầu hết những kiến thức môn học cung cấp là rất mới đối với em như: tính ỳ tâm
+lý, chuỗi nhu cầu hành động, tư duy hệ thống, các phương pháp tích cực hóa tư duy,...
+và để nói cái nào là duy nhất thì rất khó vì em thấy rằng với mỗi kiến thức em đều
+tìm thấy những bổ ích riêng và rất thiết thực.
+Trước đây em là người khá bảo thủ, có thể nói như vậy sau khi đã học tính ỳ tâm
+lý, và em nhận thấy hầu hết mọi người chứ không riêng bản thân một ai đều mắc
+phải điều này, tuy mức độ có khác nhau. Bây giờ suy nghĩ của em khá thông thoáng,
+lắng nghe ý kiến mọi người vì đây là những cách nhìn khác nhau, những hướng ý
+tưởng khác nhau giúp ích được trong quá trình giải bài toán. Đồng thời với điều này,
+các phương pháp tích cực hóa tư duy, giúp em gần như khắc phục tốt tính ỳ tâm lý,
+em thấy hay nhất là phương pháp Synectics, nhưng cũng rất khó áp dụng, em đang
+nghiên cứu các ví dụ trên lớp để biết cách áp dụng vào thực tế bản thân.
+Được học chuỗi nhu cầu hành động, em thấy rằng có một số hành động của em
+trước đây được điều khiển trực tiếp bởi thói quen và xúc cảm, mà đây là những thói
+quen xấu, biết là xấu, là có hại nhưng để bỏ hẳn được rất khó, nhưng bây giờ hiểu
+được nguyên lý và cơ chế của hành động, em đã khắc phục được. Ví dụ trước đây và
+đến bây giờ thi thoảng em có hút thuốc lá, bây giờ em đã bỏ được, em nghĩ là như
+vậy và sẽ làm được. Thật ra để làm được em phải hiểu thêm hiệu ứng lan tỏa hệ
+thống, vì hút thuốc không những có hại cho phổi mà cho toàn bộ cơ thể, cho người
+thân yêu của mình.
+Bước đầu em mới chỉ áp dụng được một phần rất nhỏ mà những lợi ích môn học
+này mang lại. Đây mới chỉ là đang hiểu ở mức ngữ pháp nhưng cũng chưa xong
+được. Để áp dụng được phải biến kiến thức trong tài liệu, kiến thức thầy giảng thành
+kiến thức của mình. Em sẽ nghiên cứu sâu thêm để hiểu được môn học, em cũng sẽ
+dạy cho em của em về những gì mình biết vì mỗi lần dạy là một lần học.
+Theo ý kiến của riêng em, môn học này cần được phổ biến rộng rãi ở nước ta mà
+
+386
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+đầu tàu là Trung tâm Sáng tạo Khoa học-kỹ thuật (TSK) vì nơi đây có bề dày kinh
+nghiệm, đặc biệt có thầy Phan Dũng, là cha đẻ môn học này ở nước ta. Để học được
+môn học này em nghĩ sinh viên năm thứ 2 trở đi và những người đi làm sẽ tiếp thu
+tốt nhất, ở những lứa tuổi ít hơn thì cần có cách dạy khác mới có kết quả.
+Em cũng đã giới thiệu môn học này với mấy người bạn và nhận thấy rằng: có
+một số bạn thấy hay và sẽ đăng ký học, còn một số còn lại (chiếm 2/3) là không quan
+tâm, bảo đây là lý thuyết suông. Từ đây em thấy môn học này không thể phổ biến đến
+tất cả mọi người, mà chỉ phổ biến được đến những người quan tâm, giống như
+những người có có sẵn đường số 1 (trong phần tính nhạy bén của tư duy) thì môn
+học sẽ là đường số 2. Lúc này môn học mới trở nên có ích.
+Em là cử nhân kinh tế, đã đi làm 2 năm nay, em từ Hà Nội vào đây 2 tháng chủ
+yếu là để học phương pháp luận sáng tạo này, học xong em lại ra Hà Nội làm việc nên
+không biết khi nào mới có điều kiện vào học phần trung cấp, đây là điều em tiếc nhất.
+TP.HCM, tháng 07 / 2009
+ Huỳnh Tấn Lợi (cử nhân, học khóa 353):
+
+Nếu cho đối tượng cho trước là tư duy hiện tại của chính bản thân em, thì đối
+tượng tiền thân là tư duy của em trước khi tham gia khóa học TRIZ. Tính mới là tư
+duy đã được hệ thống hóa thành những bước suy nghĩ có bài bản trong giải quyết
+các bài toán trong công việc cũng như trong đời thường. Tính lợi ích là làm cho bản
+thân em cảm thấy tự tin hơn, có tính chủ động hơn trong tìm bài toán ưu tiên cần
+giải và lựa chọn bài toán tối ưu. Tuy nhiên, sự chập chững của bản thân em ban đầu
+đôi lúc có khó khăn và số lần ra quyết định không chính xác hoặc gần chính xác còn
+rất nhiều. Thực tế cho thấy, phương pháp thử và sai đã tạo nên tính ì tâm lý khá lớn.
+Nó đã tạo ảnh hưởng trong tư duy và ra quyết định của bản thân em. Mỗi lần ra
+quyết định sai hoặc chưa đúng thì em đều lắng nghe ý kiến của các đồng nghiệp và
+rút ra bài học được phát biểu theo ngôn ngữ môn học “Phương pháp luận sáng tạo”.
+Em tin rằng tư duy của em sẽ phát triển mạnh trong thời gian gần.
+Bài toán khó nhất trong đời em là ra quyết định tiếp tục học hay không học
+chương trình học cao học. Nếu tập trung lo học thì em chắc chắn phải đương đầu với
+sự khó khăn về tài chính. Gia đình em ở quê nhà hoàn toàn không đủ điều kiện hỗ trợ
+em về mặt tài chính. Nếu từ chối cơ hội học cao học, thì chắc chắn em sẽ có cuộc sống
+tương đối ổn định với mức lương tương đối hiện tại. Như vậy, bài toán của em là
+“Tập trung học với điều kiện kinh tế khó khăn, hay không đi học với kinh tế ổn định
+và hỗ trợ gia đình”. Với tính ì tâm lý, em đã rất cảm thấy bế tắc trong việc giải quyết
+vấn đề kinh tế cho bản thân. Khác với mọi sinh viên thông thường, em chưa hoàn
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+387
+
+toàn trải qua cuộc sống vừa làm, vừa học cơ cực trong thời sinh viên. Đây là điều cản
+trở trong việc phát ý tưởng để giải quyết bài toán. Sau khi tham gia được vài buổi
+học đầu tiên, em liền tự đặt câu hỏi cho bản thân “Học cao học vì mục đích gì?”. Chính
+câu hỏi đó đã làm em kiên quyết tìm lời giải cho bài toán. Em xin giữ lại lời giải vì
+không tiện trình bày trong khuôn khổ trang giấy này. Em rất hạnh phúc vì mình thật
+sự tự tin hơn trong mọi tình huống. Cảm ơn môn học cực kì hay, em xin tạm gọi lớp
+học chúng ta là “Lớp học kì diệu”.
+Như bất kì một học viên nào, em hoàn toàn tán thành việc phát triển môn học tại
+nước ta. Môn học này cần được xem như một môn học bắt buộc tại trường học. Nếu
+xem nền giáo dục nước ta như một hệ thống, thì việc đưa môn học này vào hệ thống
+thì tất sẽ có nhiều sự thay đổi cho hệ dưới và hệ trên. Hệ dưới là giáo viên, học sinh.
+Hệ trên là cơ quan, chính phủ nhà nước, hay các người sử dụng lao động trí thức. Sự
+tác động là tương đối lớn do đó sẽ bị tính ì hệ thống kéo lại. Thực tế chứng minh
+rằng, môn học đã du nhập vào nước ta rất sớm, nhưng lại phát triển mang tính tự
+phát, mang tính cục bộ. Em hi vọng rằng các thầy cùng các học viên đã và đang học
+môn Phương pháp luận sáng tạo sẽ nhanh chóng thúc đẩy môn học để tạo tiền đề cho
+việc gia nhập vào các cường quốc.
+Với tư cách là một học viên hoàn thành khóa học, em rất trân trọng những gì đã
+tiếp thu từ các Thầy. Nếu chỉ ở mức trân trọng đến mức “khóa cửa” giữ lại cho riêng
+mình thì mình cũng sẽ mất đi rất nhiều nguồn tin xung quanh. Trao đổi và giao lưu là
+điều cần thiết. Chính vì thế, em luôn cố gắng đem những lý giải hay của môn học cũng
+như những việc em đã làm được để trao đổi với những đối tượng có thể tiếp thu một
+cách dễ dàng. Em hi vọng với giúp đỡ mọi người bằng những lời khuyên hữu ích
+(bằng cách giải bài toán của người đó và đưa ra lời giải tối ưu) cũng được xem như
+đưa môn học vào đời sống. Và thành quả gần nhất của em là đã khuyên can hành
+động tuyệt thực (tình trạng ăn uống không được và hay nôn mửa sau khi ăn) của
+một bạn trai vì thất tình. Em đã dùng những khái niệm môn học như nhu cầu xã hội,
+nhu cầu sinh học, hệ thống, tiềm thức, vv.. để giải thích và khôi phục lại tinh thần của
+bạn ấy. Kết quả là bạn đó đã hồi phục và ăn cơm trở lại sau vài ngày tuyệt thực. Đó là
+niềm vui khi giúp đỡ mọi người.
+Ngày đầu tiên em đến lớp, em vô cùng ấn tượng với cách dạy của Thầy Dũng.
+Cách Thầy tổ chức lớp đã làm mọi người bước đầu cảm thấy mình có thể phát biểu
+và được mọi người xung quanh ủng hộ mình. Điều đó thật quan trọng và làm cho em
+áp dụng ngay vào công việc của chính bản thân.
+Nguyện vọng của em là có thể đem môn học này giới thiệu cho tất cả mọi người
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+388
+
+xung quanh. Và mọi người đã thật sự lắng nghe những điều em nói. Họ ra vẻ thích
+thú và muốn hỏi xin tài liệu. Em rất vui khi chia sẻ những kiến thức đó. Em cũng
+khuyên họ nên đến Trung tâm để có thể tiếp thu đầy đủ hơn. Nhưng do điều kiện địa
+lý nên các bạn của em đã không thể đến lớp. Em ước gì Trung tâm có thể đặt tại Cần
+Thơ, để cho mọi người thân trong gia đình cùng bè bạn có thể đến tham gia khóa
+học. Điều đó đồng nghĩa là em mong muốn môn TRIZ thật sự phát triển rộng rãi ở
+Việt Nam và gần nhất là có thể mở được lớp đào tạo cử nhân TRIZ.
+Trước tiên, em xin giới thiệu lại bản thân em. Em vốn là một người vùng đất Tây
+Đô trù phú với bến Ninh Kiều thơ mộng. Em lớn lên cùng người thân trong gia đình
+và bè bạn trên vùng đất thanh bình. Ngày em đến với trường Đại học Cần Thơ
+(ĐHCT) là một niềm tự hào vô bờ bến. Trường ĐHCT là trường lớn nhất đồng bằng
+sông Cửu Long và là nơi hội tụ nền văn hóa của 13 tỉnh miền Tây Tổ Quốc. Nhưng sau
+khi kết thúc chương trình đại học, em vô cùng tiếc bản thân em. Tuy kết quả học của
+em rất cao, nhưng về mặt tư duy lại không phát triển nhiều. Em hoàn toàn cảm thấy
+thụ động trước một vấn đề gì mới. Em luôn đầu hàng vô điều kiện và không giải thích
+ra sao về điều này. Trường ĐHCT cho em một tấm bằng kĩ sư Điện Tử - Viễn thông
+nhưng lại không cho em một tư duy vững vàng trong quá trình nghiên cứu khoa học.
+Sau khi tốt nghiệp, em đã may mắn trúng tuyển vào một công ty của Nhật tại
+TPHCM, một nơi hội tụ văn hóa lớn nhất của cả nước. Em đã rời quê nhà để đến với
+đất Sài Gòn. Nhưng em vẫn thế, hơn một năm có lẻ mà em vẫn tiếp tục theo lối tư duy
+cũ, mặc dù đã tiếp xúc với môi trường chuyên nghiệp của Nhật. Chính điều đó đã làm
+em có bước thăng tiến chậm trong nghề nghiệp. “Biết người biết ta trăm trận trăm
+thắng” như ông bà ta thường nói. Rõ ràng, em biết mình thiếu hụt một tư duy hoặc
+thiếu thông minh nhưng em lại không khắc phục được nhược điểm đó.
+Một ngày đầu tháng 9, em vô tình đi qua bàn của một đồng nghiệp và đã dừng
+chân lại nhặt lên tờ rơi để đọc vu vơ. Em thật sự bừng tỉnh khi đọc ngay cụm từ
+“Phương pháp luận sáng tạo khoa học - kỹ thuật giải quyết vấn đề và ra quyết định”.
+Cảm xúc dương của em tăng mạnh theo từng dòng chữ ghi trên tờ rơi đó. Con người
+từ khi sinh và lớn lên, họ học ăn học nói nhưng chưa bao giờ được học cách suy nghĩ
+sao cho đúng đắn. Ngay lập tức, em ra quyết định đăng kí khóa học để thỏa mãn nhu
+cầu cá nhân từ lâu của mình.
+ Huỳnh Thảo Hiền (cử nhân, học khóa 377):
+
+Sau khi học xong môn “Phương pháp luận sáng tạo”, tôi đã suy nghĩ hệ thống
+hơn. Mỗi lần gặp vấn đề gì, tôi thường đi tìm định nghĩa của nó, phân tích nhìn dưới
+nhiều khía cạnh khác nhau, và quan tâm đến cách nhìn của những người khác, tránh
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+389
+
+được các bất đồng và tranh luận không cần thiết về những cách hiểu khác nhau về
+cùng một khái niệm, từ đó, tìm hướng giải quyết vấn đề dựa trên các quy luật và thủ
+thuật sáng tạo. Ích lợi thấy rõ nhất là tôi nhìn nhận các vấn đề gặp phải trong cuộc
+sống và trong công việc một cách hệ thống hơn, cảm thấy tự tin hơn khi phải đối diện
+với nó, từ đó bình tĩnh tìm hướng giải quyết.
+Tôi đã vận dụng các thủ thuật sáng tạo vào quá trình tìm lời giải cho các vấn đề.
+Ví dụ: trước khi đi siêu thị, tôi lập danh sách các vật dụng, thực phẩm cần mua trước
+ở nhà để tiết kiệm thời gian (thực hiện sơ bộ), vừa đi siêu thị, kết hợp tập thể dục vận
+động cơ thể (kết hợp) và lúc khi tính tiền tại quầy, thay vì phải xếp hàng đợi lâu đến
+phiên tính tiền, tôi đến gửi đồ trước và quay lại mua thêm ít đồ nữa trong lúc đến
+phiên mình (ứng suất sơ bộ và tách khỏi).
+Tôi dự định sẽ tiếp tục áp dụng thường xuyên hơn các thủ thuật sáng tạo vào
+giải quyết các vấn đề gia đình và công việc của tôi. Trước mắt tôi chuẩn bị lập gia
+đình nên sẽ có nhiều vấn đề cần giải quyết sáng tạo.
+Môn học này nên được tổ chức giảng dạy và phổ biến hơn thông qua các chương
+trình chính khóa từ phổ thông. Các học sinh tiểu học và trung học cơ sở có thể học
+được môn này, nếu đừng đi vào các vấn đề triết lý nhiều hay các vấn đề quá kỹ thuật.
+Các học sinh phổ thông trung học có thể học được môn này chứ không nhất thiết phải
+đợi đến tốt nghiệp. Tôi đã tham gia ban liên lạc cựu học viên PPLST để có điều kiện
+giới thiệu học này với nhiều người hơn.
+Tôi biết được thông tin khóa học thông qua bạn bè của tôi. Lý do tôi theo học là
+tôi nghe tên môn học có vẻ hay, hợp với nhu cầu cần giải quyết một số vấn đề sáng
+tạo và một vài người bạn đã học xong cũng có kể qua một vài điều lý thú về môn học.
+ Đỗ Anh Thương (kỹ sư, học khóa 384):
+
+Bước vào đời với hành trang của những năm tháng cày cuốc trên bậc đại học. Có
+thể nói, tôi tự tin với những gì mình trang bị. Nhưng, đời không như là mơ. Bước
+chân đầu tiên khi đi làm, tôi thật sự chệnh choạng. Rồi càng chệnh choạng hơn nữa
+khi khối lượng công việc đổ xuống, hàng tá mối quan hệ xã hội, đối tác, bạn bè, công
+việc,... phải giải quyết. Vấn đề kĩ thuật giải quyết được vì nó dựa trên những gì tôi đã
+được học. Còn vấn đề ngoài xã hội muôn hình, muôn vẻ và gặp hàng ngày, hàng giờ
+nhưng tôi chưa từng được dạy, chưa từng được học. Có chăng chỉ là vốn kiến thức
+“đời” ít ỏi của tôi mang ra giải quyết để rồi rút kinh nghiệm. Nhiều lúc, những vấn đề
+gặp phải không biết cách xử trí như thế nào cho nó ổn thỏa. Dần dần, tôi tìm quen
+những anh bạn lớn tuổi hơn, trải nghiệm nhiều hơn để được nghe họ nói về những
+bài học mà họ trải qua. Và một lần trong số ấy, tôi được giới thiệu môn học “Phương
+
+390
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+pháp luận sáng tạo” của thầy Phan Dũng và bị thu hút bởi câu “Đời là một chuỗi vấn
+đề cần giải quyết, chuỗi quyết định cần phải ra”. Tôi quyết định đăng ký học với hi
+vọng nghe được những kinh nghiệm quí từ những người thầy, nhìn thấy được chuỗi
+vấn đề và ra quyết định đúng để giải quyết vấn đề trong cuộc sống.
+Thật không uổng công tí nào cho khóa học “Phương pháp luận sáng tạo”. Khác
+với những khóa học dạy ở các trung tâm dạy kiến thức kĩ thuật về các lĩnh vực kinh
+tế, tin học,... mà tôi cảm thấy chán và chẳng có hứng thú học, thì khóa học “Phương
+pháp luận sáng tạo” lại khác. Nó mang đến một sự hào hứng, với những câu chuyện
+đời thường, những vấn đề rất gần gũi tưởng chừng như đơn giản nhưng để giải
+quyết nó thì ngược lại. Chưa kể đến những mối quan hệ tương quan vô hình của
+những vấn đề đã tạo thành một chuỗi. Những câu chuyện cười nhưng hàm chứa
+những nguyên tắc sáng tạo quí giá.
+Trước đây, xúc cảm ảnh hưởng đến những quyết định của tôi khá nhiều, mà nó
+đa phần là xúc cảm xấu. Đó là xúc cảm nóng vội, bực tức, phản kháng làm cho vấn đề
+nó trở nên phức tạp, trầm trọng, khó giải quyết. Tôi cố gắng kiềm chế xúc cảm của
+mình để nó không tác động nhiều đến lý trí, không ảnh hưởng đến việc giải quyết vấn
+đề gặp phải. Sau này, tôi mới hiểu rõ tác động của xúc cảm đến hành động, đến
+những quyết định của mình như thế nào. Xúc cảm dẫn đến hành động. Và bây giờ,
+sau môn học tôi đang tập dần cho mình cách điềm tĩnh, kiểm chế những xúc cảm âm
+phát sinh tức thời khi gặp vấn đề, có thể cản trở hành động hoặc dẫn tôi đến những
+quyết định sai lầm. Bên cạnh đó là kích thích xúc cảm dương, không để tư duy bị chi
+phối bởi tình cảm. Từ đó, tôi nhìn vấn đề một cách khách quan hơn, nhiều mặt hơn,
+không bó buộc theo tác động bên ngoài.
+Từ các nguyên tắc sáng tạo cơ bản, tôi thay đổi tư tưởng cố hữu của mình trong
+công việc. Nó giúp vận dụng ngay những điều đã học vào việc phát huy ý tường, sáng
+tạo hằng ngày trong công việc và cuộc sổng. Chẳng nhũng tiết kiệm khá nhiều những
+thời gian, đau đầu trong suy nghĩ tìm ra lời giải, mà nó còn mang đến tính đầy đủ và
+mới lạ trong những ý tưởng phát sinh đến không ngờ. Điều này giúp tôi có nhiều ý
+tường hơn, không bỏ sót những ý tưởng có ích.
+Với đặc thù công việc liên quan nhiều đến phân tích, thiết kế, tôi buộc phải tìm
+hiểu chi tiết, ngõ ngách của những vấn đề có thể phát sinh và cả những vấn đề tương
+lai phát triển sinh ra. Đặc biệt là những vấn đề nằm ở tương lai, có thể sinh ra những
+vấn đề khó giải quyết, nên ngay hiện tại phải lường trước được nó để có thể dự
+phòng về sau. Và qui luật phát triển của hệ thống giúp tôi mường tượng rõ hơn dựa
+trên những qui luật sẵn có để có thể hình dung sự biến đổi của hệ thống. Khi nắm bắt
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+391
+
+rõ những quy luật này thì có thể dự trù, lường trước những vấn đề phát sinh có thể
+xảy ra trong quá trình biến đổi của hệ
+Về việc phát triển môn “Phương pháp luận sáng tạo”, ngày cuối phần học của
+thầy Dũng đảm nhiệm, có nghe được những trăn trở của thầy về môn học này. Môn
+học này thật sự là rất có ích và rất cần được dạy trong trường ở cấp bậc trên đại học,
+đại học, cao đẳng, trung cấp. Tôi nghĩ nó tốt cho những sinh viên năm cuối và những
+người ra trường khởi nghiệp 1, 2 năm. Nó là hành trang thật sự có ích, là những bài
+học cần thiết được vận dụng hằng ngày từ công việc cho đến đời sống thực tại. Mọi
+thứ xung quanh, từ nhỏ đến lớn từ vật chất, tinh thần, từ những mối quan hệ, cư xử
+đến hành động, mọi thứ đều là vấn đề cần phải giải quyết một cách tốt nhất có thể.
+Mọi thứ đều có thể sáng tạo để cuộc sống tốt hơn.. Như tôi, bước vào đời với hành
+trang kiến thức nghề nghiệp là chính, còn kiến thức ăn nói, suy nghĩ, giải quyết vấn
+đề, tư duy hành động chỉ toàn nhìn, học từ người khác và rút kinh nghiệm. Có ai dạy
+những vấn đề ấy đâu. Mà lạ thật, những thứ cần cho cuộc sống và dùng nó hằng ngày
+thì chẳng thấy mấy ai dạy. Nhìn thẳng vào nước ta mà nói, thể như một thói quen,
+tính ì tâm lý, cái gì mang đến kết quả tức thời, nhìn thấy bằng mắt, sờ bằng tay thì
+những người lãnh đạo mới trân trọng và phát triển nó.
+ Bùi Mai Hoàng Tú (cử nhân, học khóa 410):
+
+Tôi được nghe về khóa học Phương pháp luận sáng tạo (PPLST) khi tôi còn rất
+nhỏ, có lẽ vào khoảng năm 2001 hay 2002. Khi đó, những người anh, chị họ của tôi
+đã từng học và với niềm ngưỡng mộ của đứa trẻ thời trung học, tôi tự nhủ khi nào
+tôi đủ lớn như các anh chị, tôi cũng sẽ học PPLST.
+Rồi nhiều năm sau, sau khi đã vào đại học, đã băn khoăn về việc chọn nghề, đã thi
+lại vào đại học lần nữa sau khi đã tốt nghiệp một ngành khác. Tôi cảm thấy những
+quyết định trong đời mình phải chăng mang tính nhất thời và hoàn toàn không có kế
+hoạch lâu dài?! Khi đó tôi liệt kê những điều tôi cần biết, cần trau dồi để cho những
+năm sau này của cuộc đời tôi không cảm thấy mình như một xác tàu lênh đênh giữa
+biển. Trong list các kĩ năng và kiến thức cần biết ấy, có khóa học PPLST mà tôi bỏ
+quên suốt 10 năm.
+Tôi ngồi ghế nhà trường 12 năm, học đại học 4 năm, và đang học tiếp đại học lần
+thứ 2, vậy là đã có một quá trình hơn 16 năm đi học. Điều tôi nhận ra là thầy cô chỉ
+dạy kiến thức mà không hề dạy tư duy. Thầy cô đưa ra các chuẩn mực xã hội mà
+không hề chỉ ra đâu là đúng, đâu là sai và phải cư xử như thế nào. Như vậy, học sinh
+ngoan sẽ nhắc lại kiến thức và hành động theo chuẩn mực xã hội mà không có chút
+dấu ấn cá nhân nào, học sinh làm khác đi sẽ bị cho là không ngoan. Sau nhiều năm,
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+392
+
+học sinh mất hoàn toàn tính sáng tạo và tính cách riêng. Đến khi đủ già dặn để hình
+thành suy nghĩ cá nhân lại mất thời gian để tìm lại chính mình. Thật không may, tôi
+lại là một hình mẫu như thế. Nhưng cũng thật may mắn vì tôi đã học PPLST, để tư
+duy đúng và hướng tới hành động đúng mà không phải phụ thuộc vào chuẩn mực xã
+hội hay văn hóa đạo đức. Điều này không có nghĩa là tôi phản bác chuẩn mực xã hội
+hay đạo đức, truyền thống của người Việt. Điều này có nghĩa là tôi sẽ thực hiện chúng
+bởi vì nó đúng chứ không phải vì ông bà, bố mẹ hay mọi người bảo tôi phải làm như
+vậy. Đây thực sự là một sáng tạo bởi vì không phải mọi việc (học tập, làm việc, sở
+thích) của tôi đều được bố mẹ tham vấn hay có thể tham vấn. Vậy nên tôi có thể tự
+chủ hơn nhiều sau khi có PPLST.
+Sự tự chủ đầu tiên của tôi được ghi dấu bằng việc hoàn thành các môn học ở
+trường đại học, gọi là học tập có kế hoạch hơn và kiến thức được sắp xếp một cách
+hệ thống hơn. Sử dụng những thủ thuật căn bản trong sáng tạo để làm chủ lượng
+kiến thức mình thu nạp. Trong tương lai 4 năm tiếp theo tôi vẫn tiếp tục sử dụng
+PPLST để học tập tốt, ngoài ra còn áp dụng vào các môn ngoại ngữ. Tôi vẫn đang
+trong quá trình vận dụng PPLST để biến tư duy hệ thống từ kĩ năng thành bản năng
+và sử dụng nó một cách hiệu quả hơn và luôn luôn như thế.
+Tôi không có ý định sẽ phát minh hay sáng chế nhận patent... Tôi chỉ có một
+mong muốn là làm cho cuộc sống của bản thân mình và những người xung quanh
+mình mỗi ngày thêm thú vị và càng ít những phiền muộn, rắc rối hay hối hận về
+những điều đã qua... Dù vậy, việc này cũng không hề đơn giản, luôn luôn cần những
+quyết định đúng đắn và đúng lúc. Vậy nên mỗi ngày, mỗi phút, mỗi giây, tôi luôn đặt
+một bài toán trong đầu để hướng suy nghĩ về nó, để không có tình trạng “trống rỗng
+tư duy”.
+Khi tôi theo học khóa học PPLST này, tôi đã ao ước mình được học khi còn trẻ
+hơn, để hạn chế những sai lầm, những khó khăn trong giải quyết công việc và đưa ra
+quyết định. Nhưng tôi cũng rất băn khoăn rằng nếu ở lứa tuổi nhỏ hơn liệu tôi có
+hiểu và áp dụng được PPLST. Do đó, tôi nghĩ cách tiếp cận của PPLST đối với các lứa
+tuổi phải phù hợp và gần gũi. Để PPLST trở thành một thói quen từ nhỏ, đến khi
+trưởng thành thì PPLST đã trở thành bản năng của mỗi người.
+ Diệp Phạm Thành Tâm (cử nhân, học khóa 417):
+
+Trước khi học Phương pháp luận sáng tạo (PPLST) tôi đã bỏ ra nhiều thời gian,
+tiền bạc và công sức để tìm hiểu và trau dồi một số phương pháp nhằm cải thiện và
+đổi mới tư duy sau đó là cuộc sống của bản thân hiện tại và trong tương lai. Tôi
+muốn tìm ra một phương pháp ưu việt nhất để nhờ nó cuộc sống của tôi sau này sẽ
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+393
+
+trở nên hạnh phúc hơn. Nhưng mọi thứ tôi biết về phương pháp luận nói chung hay
+những phương pháp giúp cải thiện tư duy nói riêng đều khá mù mờ. Tôi đã được các
+thầy cô trong giảng đường đại học giới thiệu rất nhiều phương pháp và kèm theo lời
+khuyên nên đầu tư rèn luyện chúng, kết quả tư duy logic và tư duy trừu tượng của tôi
+có được những bước phát triển thật sự, tôi nhận thấy được điều đó.
+Thế nhưng khi nhìn lại, những kiến thức về phương pháp học tập, tư duy tích lũy
+trong gần 2 năm cùng năng lực tư duy của mình cũng không giúp cho cuộc sống của
+tôi trở nên hạnh phúc hơn, tôi đã đánh đổi nhiều thứ để tập trung tìm hiểu và rèn
+luyện các phương pháp đó: tình cảm bạn bè, mối liên hệ tình cảm gia đình, 2/3 quãng
+đời sinh viên tươi đẹp, chất lượng cuộc sống suy giảm thậm tệ: không quan tâm đến
+chuyện ăn ngon, mặc đẹp, gác bỏ chuyện tình cảm cá nhân, trở nên khép kín, rụt rè,
+nhu nhược, thiếu kỹ năng sống và kỹ năng giao tiếp trầm trọng, sợ môi trường xung
+quanh và những tác động xấu từ xã hội; chịu nhiều áp lực, rất nhiều lần suy sụp, chán
+nản, mất hết niềm tin và hy vọng vì những nhu cầu cơ bản, thiết yếu trên không được
+thỏa mãn, cũng như có nguy cơ trở nên trầm cảm.
+Tuy nhiên khi được học PPLST, nhận thức, tư duy và cuộc sống của tôi đã có sự
+thay đổi lớn. Trước nhất tôi biết rằng mình đã tìm được cái mình cần tìm - một
+phương pháp thật sự ưu việt để tôi xây dựng được một cuộc đời hạnh phúc. Sau đó,
+thông qua các buổi học, các Thầy đã tạo động lực cho tôi thêm hy vọng và tin tưởng
+vào những điều tốt đẹp có thể có nếu vận dụng tốt môn học, cũng như thay đổi nhận
+thức về tư duy, về cuộc sống và về những phương pháp mà tôi đã tìm hiểu trước đây.
+Cho đến nay, sau gần 4 tháng từ khi khóa học kết thúc, cuộc sống của tôi đã thay
+đổi toàn diện, tôi trở nên hòa đồng với bạn bè , được bạn bè và gia đình yêu thương,
+tự tin trong cuộc sống, biết cách yêu và làm sao để được yêu. Biết nhìn xa trông rộng,
+suy nghĩ cẩn thận trước khi hành động, đặt để tình cảm đúng lúc, đúng chỗ, chú
+trọng vẻ ngoài và trong lời ăn tiếng nói. Không còn nhu nhược, dễ bị uy hiếp và sợ hãi
+như trước, không còn cả tin và dễ thỏa hiệp với những điều không tốt. Mạnh dạn và
+tự tin hơn trong hành động biết mình muốn gì và sau đó mình cần làm gì.
+Trước tiên, tôi sẽ áp dụng những điều được học cho bản thân trước, tôi sẽ dùng
+kiến thức môn học để kiểm soát và định hướng cho cuộc sống của mình hiện tại và
+trong tương lai. Sau khi đã đạt được những điều mình mong muốn, cũng dựa vào
+kiến thức môn học và những thành tựu đã đạt được nhờ việc vận dụng môn học, tôi
+sẽ lập kế hoạch để phổ biến nó cho những người xung quanh mà trước nhất là em gái
+tôi.
+ Trần Phương Lâm (kỹ sư, học khóa 462):
+
+394
+
+Giáo dục và đào tạo: xây dựng những người hạnh phúc
+
+Trước khi được học môn phương pháp luận sáng tạo và đổi mới (PPLSTVĐM) tại
+Trung tâm TSK thì tôi hầu như chỉ suy nghĩ một cách tự nhiên, tức là suy nghĩ theo
+kiểu mò mẫm: “Thử & sai” mà ngỡ rằng mình suy nghĩ có “phương pháp”. Tôi có cảm
+giác như được tái sinh (về mặt tư duy) lần nữa khi được học PPLSTVĐM cùng với
+thầy Hưởng, thầy Triết và đặc biệt đọc hết trọn bộ “Sáng tạo & Đổi mới” của thầy
+Phan Dũng.
+Không chỉ nhận dạng được dấu vết của thử & sai mà môn học còn trang bị cho
+tôi hệ thống các phương pháp để giải quyết vấn đề và ra quyết định.
+Gần hai tháng học PPLSTVĐM và đọc bộ sách “Sáng tạo & Đổi mới” của thầy
+Phan Dũng giúp tôi tự tin hơn khi giao tiếp. Đặc biệt, tự tin hơn vào bản thân mình vì
+đã được “cài đặt phần mềm tiên tiến” vào bộ não.
+Ở phương diện cá nhân: Tôi nghiêm túc luyện tập hàng ngày để sớm được “siêu
+thoát” môn học. Áp dụng triệt để những gì đã học vào trong cuộc sống để giải quyết
+chuỗi các vấn đề cần giải quyết và chuỗi các quyết định cần phải ra. Không dừng lại ở
+đó, tôi sẽ khuyến khích người thân, bạn bè nên trang bị môn học PPLSTVĐM. Nó
+không chỉ ích lợi cho bản thân mà còn ích lợi cho tương lai của một đất nước.
+Nếu môn học PPLSTVĐM không được dạy và học đại trà thì đó là một “lãng phí
+lớn”. Chỉ riêng cá nhân tôi đã lãng phí một khoảng thời gian rất dài (tôi năm nay 34
+tuổi mới được biết và học môn học PPLSTVĐM). Nó ích lợi, giá trị đến thế sao tôi
+không được biết sớm hơn (ít nhất là thời gian tôi còn đang học phổ thông). Theo kiến
+nghị của cá nhân tôi, thì lứa tuổi nên học môn PPLSTVĐM là ở độ tuổi 16 trở lên. Đây
+là thời điểm quyết định ngã rẽ của cuộc đời và đủ độ chín về nhận thức. Đại học và
+sau đại học nó chỉ là hệ quả mà thôi. Đi xa hơn nữa, là độ tuổi 12 trở lên và xa hơn
+nữa là độ tuổi 6 trở lên. Đóng góp cá nhân tôi cho việc phát triển môn học đơn giản
+là tôi siêu thoát được môn học, giúp người thân, bạn bè nhận ra được giá trị của môn
+học mà thôi.
+Trong thời gian được học tại Trung tâm, tôi nhận được rất nhiều giá trị từ môn
+học, đặc biệt hành động “dám cho đi” của các thầy.
+Tôi xin chân thành gửi lòng biết ơn đến thầy Phan Dũng và các giảng viên tại
+Trung tâm. Mong cho Trung tâm mãi mãi được trường tồn và lan rộng khắp cả
+nước. Tôi nguyện sẽ đóng góp một phần sức lực nhỏ bé của mình cho sự tồn tại và
+phát triển của Trung tâm, cũng như môn học PPLSTVĐM.
+Thông qua một người anh đã từng học tại trung tâm TSK mà tôi biết đến “tên”
+môn học phương pháp luận sáng tạo. Lí do thật sự tôi quyết định học môn học
+
+Chương VII: Một số việc làm liên quan đến xây dựng những người hạnh
+phúc ở Việt Nam và một số kết quả
+
+395
+
+PPLSTVĐM là sau khi tôi tìm hiểu môn học thông qua website của Trung tâm
+(www.cstc.vn). Tôi đăng kí học một ngày sau đó và tham gia đầy đủ 15 buổi học tại
+Trung tâm. Đây có lẽ là lần ra quyết định đúng đắn nhất trong số các lần ra quyết
+định trong cuộc đời của tôi.

@@ -1,0 +1,8 @@
+The data in this folder was extracted from the ebook of Phan Dung (pages 171-663): http://cstc.vn/papers/SThoc-13_kemThuNgo_saved.pdf
+Phan Dũng, "Đổi mới giáo dục và đào tạo: xây dựng những người hạnh phúc nhờ sáng tạo (một số kết quả đạt được trong hơn 40 năm qua)", CSTC-TSK, HCMC University of Natural Sciences, 2017. (ebook, in Vietnamese)
+Translation of book title into English:
+"Innovating education and training: building happy people through creativity (some results obtained in the past 40+ years)"
+
+That section contains feedbacks of students on the reasons they attended the courses "enlarged TRIZ" by CSTC, and their sharing immediately after the course.
+
+Our plan: to use statistics to learn how did the course change their mind, their strongest impressions from the course (probing what they had learnt), and how they intended to use the knowledge and skills learnt from the course. Expected result: the study will show some meaningful ideas about the effectiveness of teaching enlarged TRIZ at CSTC.

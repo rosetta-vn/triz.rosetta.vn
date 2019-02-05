@@ -1,0 +1,29 @@
+ Lê Văn Khanh (kỹ sư cơ khí, học khóa 3):
+
+Thưa thầy Phan Dũng!
+Sau khi được học nơi thầy “phương pháp luận sáng tạo khoa học kỹ thuật”, em đã vận dụng và giải quyết được nhiều bài toán đã gặp trong thực tế, xin báo lại để cùng thầy chung vui:
+1. Quá trình đúc các vỏ xe đạp, xe Honda v.v… luôn luôn cần phải cho chi tiết đúc ép sát vào thành khuôn (để vỏ xe sao chép lại bề mặt khuôn). Để được như vậy, cần phải đuổi lớp không khí giữa chi tiết và bề mặt khuôn ra ngoài bằng cách khoan thủng nhiều lỗ nhỏ xuyên qua vỏ khuôn. Các lỗ nhỏ này sau đó sẽ để lại trên bề mặt chi tiết những râu cao su nhỏ.
+Em nhận nhiệm vụ đúc một chi tiết cao su rỗng, có áp suất bên trong chi tiết, còn mặt ngoài thì phải bóng láng.
+Ở đây không thể khoan xuyên qua vỏ khuôn như cách giải quyết thông thường vì sẽ để lại trên chi tiết những “râu”.
+Phát biểu mâu thuẫn lý học theo ARIZ là: bề mặt khuôn phải có các “lỗ” cho không khí thoát ra, đồng thời phải không có “lỗ” cho cao su chui ra.
+Kết quả lý tưởng cuối cùng là: bề mặt khuôn phải có vô số lỗ nhỏ cho không khí thoát ra các lỗ này và phải không cho cao su đi qua.
+Lời giải có thể là: dùng vỏ khuôn bằng vật liệu xốp, nhưng do điều kiện của xưởng không có vật liệu xốp và phải dùng khuôn bằng thép, em chọn cách giải quyết là quét lên mặt trong và các mối lắp ghép của khuôn một lớp phấn mỏng. Không khí sẽ lọt ra ngoài qua lớp phấn này. Tất nhiên lớp phấn này sẽ để lại trên bề mặt chi tiết những chấm li ti do kích thước của bụi phấn. Do vậy phấn này cần phải biến mất khi chi tiết sắp được định hình.
+Lời giải thực là quét lên lòng khuôn và các bề mặt lắp ghép một lớp mỏng bột lưu huỳnh. Khi cao su sắp định hình, lớp lưu huỳnh tác dụng với cao su và biến bề mặt chi tiết thành một lớp bóng láng.
+2. Có một chi tiết trong quá trình gia công cần được kẹp bằng 1 lực 20 KG trên diện tích 2cm x 2cm. Thể tích phần đặt cơ cấu kẹp là 1cm x 2cm x 2cm. Các giải pháp đã áp dụng từ trước là kẹp bằng boulong, đai ốc hoặc kẹp bằng nêm. Kẹp bằng boulon – đai ốc tốn thời gian và thao tác không thuận tiện. Kẹp bằng nêm thì thao tác kẹp và tháo kẹp càng chậm hơn.
+Từ ý nghĩ: do không gian đặt cơ cấu kẹp khá hạn hẹp, nên cơ cấu kẹp phải tận dụng được hết không gian cho sẵn. Đồng thời để thao tác kẹp và tháo kẹp được nhanh thì cơ cấu kẹp phải linh động.
+Loại vật chất nào tận dụng được hết không gian cho sẵn và có tính linh động?
+Đó là chất lỏng.
+Lời giải của bài toán là dùng một bầu đàn hồi đựng đầy nhớt đặt vào không gian cần tạo lực kẹp. Bầu nầy nối ra ngoài bởi một ống dẫn nhỏ gắn liền vào đầu một pittông – xylanh (loại dùng để chích).
+Thao tác kẹp và tháo kẹp là bóp hoặc không bóp lên pittông ống chích.
+3. Cần cắt một tấm ny lông 1m x 1m thành từng sợi nhỏ 5mm x 1000mm. Nhu cầu cần 100 sợi/ngày.
+Biện pháp sử dụng từ trước là đánh dấu các bề rộng 5mm và cắt bằng thước lá với lưỡi lam.
+Mỗi lần cắt được một sợi. Nhược điểm hiển nhiên là năng suất thấp và tốn nhiều lưỡi lam. Vì trong lúc cắt, lưỡi lam cũng cắt luôn lên mặt bàn (đặt tấm ny lông), lưỡi lam bị mòn.
+Để tăng năng suất và bảo đảm đúng bề rộng 5mm. Em dùng một dao cắt gồm nhiều lưỡi lam ghép song song cách nhau 5mm. Dao này tự nó bảo đảm bề rộng dày ny lông được cắt ra là 5mm. Nhưng còn phải giải quyết tiếp làm sao cho lưỡi lam lâu mòn.
+Phân tích chữ “mòn” thì thấy:
+Để cắt được, dao phải tác dụng lên chi tiết một lực R và do đó cũng bị mặt bàn (thông qua chi tiết) tác dụng lại phản lực R’.
+Vậy để dao khỏi mòn phải làm sao duy trì lực R’ mà không có mặt bàn.
+Lực R’ có thể thay bằng 2 lực R1 và R2 theo sơ đồ phân tích lực.
+Sơ đồ này dẫn tới lời giải là căng tấm ny lông bằng cách kẹp và kéo ở 2 đầu tấm ny lông và sau đó dùng dao cắt bình thường mà không cần tựa lên mặt bàn.
+Trên đây là ba trong rất nhiều trường hợp mà em vẫn áp dụng thành công hàng ngày để giải các bài toán kỹ thuật.
+Nói chung trong những lần tìm ra lời giải là nhờ nắm vững ARIZ, nhanh chóng nhìn rõ bài toán, xác định được mâu thuẫn kỹ thuật, mâu thuẫn lý học, cương quyết đẩy các mâu thuẫn của bài toán đến tột cùng.
+Em thấy dùng ARIZ, tư duy của mình (khi gặp các bài toán kỹ thuật) tăng lên khoảng 10 lần. Còn trong đời sống hàng ngày thì mình cảm thấy tự tin, thoải mái hơn. Chân thành cảm ơn thầy.
