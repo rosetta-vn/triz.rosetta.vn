@@ -34,8 +34,9 @@
   </body>
 </html></richcontent>
 <node CREATED="1549282163617" ID="ID_1537546036" MODIFIED="1549298042186" TEXT="1. Foundational concepts.&#xa;C&#xe1;c kh&#xe1;i ni&#x1ec7;m n&#x1ec1;n t&#x1ea3;ng.">
-<node CREATED="1549282163617" ID="ID_1446336855" MODIFIED="1549366553314" TEXT="1.1. Dialectics as a philosophical foundation of TRIZ [1].&#xa;L&#xfd; thuy&#x1ebf;t bi&#x1ec7;n ch&#x1ee9;ng l&#xe0; tri&#x1ebf;t l&#xfd; c&#x1ee7;a TRIZ.">
+<node CREATED="1549282163617" ID="ID_1446336855" LINK="notes/Dialectics.mm" MODIFIED="1549369132461" TEXT="1.1. Dialectics as a philosophical foundation of TRIZ [1].&#xa;L&#xfd; thuy&#x1ebf;t bi&#x1ec7;n ch&#x1ee9;ng l&#xe0; tri&#x1ebf;t l&#xfd; c&#x1ee7;a TRIZ.">
 <icon BUILTIN="button_ok"/>
+<node CREATED="1549369175061" ID="ID_1191402128" LINK="?path=notes&amp;map=Dialectics.mm" MODIFIED="1549369215128" TEXT="View notes on web browser"/>
 </node>
 <node CREATED="1549282163618" ID="ID_1992236801" MODIFIED="1549366557721" TEXT="1.2. Directional evolution of technological systems [2].&#xa;S&#x1ef1; ph&#xe1;t tri&#x1ec3;n (ti&#x1ebf;n h&#xf3;a) c&#xf3; &#x111;&#x1ecb;nh h&#x1b0;&#x1edb;ng c&#x1ee7;a c&#xe1;c h&#x1ec7; th&#x1ed1;ng k&#x1ef9; thu&#x1ead;t.">
 <icon BUILTIN="button_ok"/>
@@ -147,7 +148,8 @@
 <node CREATED="1549282163653" ID="ID_975862586" MODIFIED="1549297546574" TEXT="4.3.3. Standards for application of the standards [33].&#xa;C&#xe1;c chu&#x1ea9;n &#x111;&#x1ec3; &#x1ee9;ng d&#x1ee5;ng c&#xe1;c chu&#x1ea9;n."/>
 </node>
 </node>
-<node CREATED="1549282163654" ID="ID_1770243348" MODIFIED="1549298060594" TEXT="5. Techniques for resolving contradictions.&#xa;C&#xe1;c k&#x1ef9; thu&#x1ead;t kh&#x1eaf;c ph&#x1ee5;c m&#xe2;u thu&#x1eab;n.">
+<node CREATED="1549282163654" ID="ID_1770243348" MODIFIED="1549369284104" TEXT="5. Techniques for resolving contradictions.&#xa;C&#xe1;c k&#x1ef9; thu&#x1ead;t kh&#x1eaf;c ph&#x1ee5;c m&#xe2;u thu&#x1eab;n.">
+<icon BUILTIN="full-1"/>
 <node CREATED="1549282163654" ID="ID_1998312035" MODIFIED="1549298064503" TEXT="5.1. Techniques for resolving engineering contradictions (inventive principles).&#xa;C&#xe1;c k&#x1ef9; thu&#x1ead;t kh&#x1eaf;c ph&#x1ee5;c m&#xe2;u thu&#x1eab;n k&#x1ef9; thu&#x1ead;t (c&#xe1;c th&#x1ee7; thu&#x1ead;t s&#xe1;ng t&#x1ea1;o).">
 <node CREATED="1549282163655" ID="ID_291444874" MODIFIED="1549365489679" TEXT="5.1.1. 40 main inventive principles [34].&#xa;40 th&#x1ee7; thu&#x1ead;t (nguy&#xea;n l&#xfd;) s&#xe1;ng t&#x1ea1;o ch&#xed;nh.">
 <icon BUILTIN="full-1"/>
