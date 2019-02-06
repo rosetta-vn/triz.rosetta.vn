@@ -34,7 +34,7 @@
   </body>
 </html></richcontent>
 <node CREATED="1549282163617" ID="ID_1537546036" MODIFIED="1549298042186" TEXT="1. Foundational concepts.&#xa;C&#xe1;c kh&#xe1;i ni&#x1ec7;m n&#x1ec1;n t&#x1ea3;ng.">
-<node CREATED="1549282163617" ID="ID_1446336855" LINK="notes/Dialectics.mm" MODIFIED="1549369132461" TEXT="1.1. Dialectics as a philosophical foundation of TRIZ [1].&#xa;L&#xfd; thuy&#x1ebf;t bi&#x1ec7;n ch&#x1ee9;ng l&#xe0; tri&#x1ebf;t l&#xfd; c&#x1ee7;a TRIZ.">
+<node CREATED="1549282163617" ID="ID_1446336855" LINK="notes/Dialectics.mm" MODIFIED="1549439041304" TEXT="1.1. Dialectics as a philosophical foundation of TRIZ [1].&#xa;L&#xfd; thuy&#x1ebf;t bi&#x1ec7;n ch&#x1ee9;ng l&#xe0; n&#x1ec1;n t&#x1ea3;ng tri&#x1ebf;t l&#xfd; c&#x1ee7;a TRIZ.">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1549369175061" ID="ID_1191402128" LINK="?path=notes&amp;map=Dialectics.mm" MODIFIED="1549369215128" TEXT="View notes on web browser"/>
 </node>
