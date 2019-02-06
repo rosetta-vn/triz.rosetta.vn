@@ -1,5 +1,6 @@
 Keywords related to TRIZ and creativity:
 sáng tạo
+đổi mới
 TRIZ
 nguyên lý
 bài toán
@@ -12,6 +13,7 @@ màn hình
 màn hình 9 hệ
 vấn đề
 phương pháp
+phương pháp suy nghĩ
 kinh nghiệm
 thói quen
 phản xạ
@@ -19,17 +21,26 @@ qui luật phát triển
 tích cực hóa tư duy
 phát ý tưởng
 phát các ý tưởng
+tính ỳ tâm lý
 tính ỳ
 tính ì
+sức ì
+sức ỳ
+tính ì hệ thống
 tư duy hệ thống
 tính hệ thống
 chuỗi nhu cầu hành động
 chuỗi các vấn đề
 bể sướng
 tình huống
+tình huống vấn đề xuất phát
+mối liên kết trong hệ
 thử và sai
 trả giá
 hiệu ứng lan tỏa hệ thống
+bài toán thu gọn
+quy luật khách quan
+mức lưu giữ
 
 thủ thuật
 nguyên tắc
@@ -79,6 +90,8 @@ bài học
 lý giải
 giúp ích
 cải tiến
+giải bài toán
+thành công
 
 Keywords related to actions:
 áp dụng
