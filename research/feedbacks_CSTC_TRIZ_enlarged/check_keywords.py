@@ -83,7 +83,7 @@ def check_keywords(folder, file_keywords, file_output):
     # The command below is just to test converting XLS to CSV again, no need to use
     #Csv_Excel.xls_to_csv(file_output.replace('csv', 'xls'), file_output.replace('.csv','_2.csv'), delimiter=',')
 
-# Main operation, when calling: python check_keywords.py folder_input keywords.csv output_file.csv
+# Main operation, when calling: python check_keywords.py data_individual keywords.csv matrix_keywords.csv
 if __name__ == "__main__":
     folder_input = str(sys.argv[1])
     keywords = str(sys.argv[2])

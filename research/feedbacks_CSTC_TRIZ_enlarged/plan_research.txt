@@ -5,8 +5,27 @@ Translation of book title into English:
 
 That section contains feedbacks of students on the reasons they attended the courses "enlarged TRIZ" by CSTC, and their sharing immediately after the course.
 
-Our plan: to use statistics to learn how did the course change their mind, their strongest impressions from the course (probing what they had learnt), and how they intended to use the knowledge and skills learnt from the course. Expected result: the study will show some meaningful ideas about the effectiveness of teaching enlarged TRIZ at CSTC.
+Our plan: to use statistics to learn how the course changed their mind, their strongest impressions from the course (probing what they had learnt), and how they intended to use the knowledge and skills learnt from the course. Expected result: the study will show some meaningful ideas about the effectiveness of teaching enlarged TRIZ at CSTC.
 
 ---
 
-First round data processing: check whether each keyword appears in a record, make the matrix of keywords mentioned by records
+Questions that could be sought by TRIZ community regarding teaching enlarged TRIZ:
+
+1. What ways of enlarging TRIZ are useful? In particular:
+  1.a. What knowledge or tools outside TRIZ are valuable to include in the enlarged TRIZ?
+  1.b. Which components of TRIZ-for-technical-fields are not effective for non-technical people (and could be skipped)?
+2. How effective is enlarged TRIZ for each group of professionals?
+  2.a. Usefulness of concepts outside TRIZ
+  2.a. Usefulness of concepts in TRIZ-for-technical-fields
+
+---
+
+First round data processing: (automatically) check whether each keyword appears in a record, make the matrix of keywords mentioned by records
+
+Second round data processing: (manually) read each record to verify the properties supposed to be represented by keywords
+
+Third round - detecting answers: from the set of data, identify relations / correlations of facts that could give answers to the research questions
+
+Forth round - reasoning: explain the findings
+
+Fifth round - conclusion: summarize the main messages
