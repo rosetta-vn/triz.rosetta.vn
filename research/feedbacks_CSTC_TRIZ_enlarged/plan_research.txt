@@ -6,3 +6,7 @@ Translation of book title into English:
 That section contains feedbacks of students on the reasons they attended the courses "enlarged TRIZ" by CSTC, and their sharing immediately after the course.
 
 Our plan: to use statistics to learn how did the course change their mind, their strongest impressions from the course (probing what they had learnt), and how they intended to use the knowledge and skills learnt from the course. Expected result: the study will show some meaningful ideas about the effectiveness of teaching enlarged TRIZ at CSTC.
+
+---
+
+First round data processing: check whether each keyword appears in a record, make the matrix of keywords mentioned by records
