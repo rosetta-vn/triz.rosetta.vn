@@ -8,7 +8,7 @@ Created on Tue Feb 6 2019
 @author: dang
 
 Example: (remember to put file names with space in double quote)
-python check_keywords.py folder_input keywords.csv output_file.csv
+python check_compound_keywords.py folder_input keywords.csv output_file.csv
 """
 
 import sys
@@ -54,7 +54,9 @@ def check_compound_keywords_file(list_keywords, file_text):
         text=file_in.read()
     matching = [0] * len(list_keywords)
     for kk in range(len(list_keywords)):
-        if list_keywords[kk] in text: matching[kk] = 1
+        group_keywords = list_keywords[kk].split(', ')
+        for single_word in group_keywords:
+            if single_word in text: matching[kk] = 1
     return matching
 
 
@@ -71,7 +73,7 @@ def mass_check_folder(folder, list_keywords):
             file_paths.append(os.path.join(root, filename))
     for file_name in file_paths:
         print(file_name)
-        matching_new = [file_name] + check_keywords_file(list_keywords, file_name)
+        matching_new = [file_name] + check_compound_keywords_file(list_keywords, file_name)
         table.append(matching_new)
     # make the sum per column
     sum_row = ['Sum per keywords']
@@ -95,7 +97,7 @@ def check_keywords(folder, file_keywords, file_output):
     # The command below is just to test converting XLS to CSV again, no need to use
     #Csv_Excel.xls_to_csv(file_output.replace('csv', 'xls'), file_output.replace('.csv','_2.csv'), delimiter=',')
 
-# Main operation, when calling: python check_keywords.py data_individual keywords.csv matrix_keywords.csv
+# Main operation, when calling: python check_compound_keywords.py data_individual keywords.csv matrix_keywords.csv
 if __name__ == "__main__":
     folder_input = str(sys.argv[1])
     keywords = str(sys.argv[2])
