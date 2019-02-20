@@ -71,8 +71,9 @@
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1549282163624" ID="ID_1943104687" MODIFIED="1549365669952" TEXT="1.13. System operator. Multi-screen scheme of talented thinking [13].&#xa;M&#xe0;n h&#xec;nh 9 h&#x1ec7; (h&#x1ec7; th&#x1ed1;ng + h&#x1ec7; con + h&#x1ec7; cha x hi&#x1ec7;n t&#x1ea1;i, qu&#xe1; kh&#x1ee9;, t&#x1b0;&#x1a1;ng lai)">
+<node CREATED="1549282163624" ID="ID_1943104687" MODIFIED="1550659179986" TEXT="1.13. System operator. Multi-screen scheme of talented thinking [13].&#xa;M&#xe0;n h&#xec;nh 9 h&#x1ec7; (h&#x1ec7; th&#x1ed1;ng + h&#x1ec7; con + h&#x1ec7; cha x hi&#x1ec7;n t&#x1ea1;i, qu&#xe1; kh&#x1ee9;, t&#x1b0;&#x1a1;ng lai)">
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="button_ok"/>
 </node>
 </node>
 <node CREATED="1549282163625" ID="ID_643467660" MODIFIED="1549297817536" TEXT="2. Trends (laws) and sub-trends (lines) of technological system evolution [14].&#xa;C&#xe1;c quy lu&#x1ead;t v&#xe0; quy lu&#x1ead;t con (&#x111;&#x1b0;&#x1edd;ng h&#x1b0;&#x1edb;ng) ph&#xe1;t tri&#x1ec3;n h&#x1ec7; th&#x1ed1;ng.">
@@ -224,6 +225,9 @@
 </node>
 <node CREATED="1549279133028" ID="ID_515418053" LINK="Level_3_MATRIZ/Level_3_MATRIZ.mm" MODIFIED="1549298622784" POSITION="left" TEXT="Level 3 set by MATRIZ">
 <node CREATED="1549280477758" ID="ID_1753801353" LINK="?path=Level_3_MATRIZ&amp;map=Level_3_MATRIZ.mm" MODIFIED="1549298593935" TEXT="View map on web browser"/>
+</node>
+<node CREATED="1550679428424" ID="ID_525991741" LINK="notes/Problem_solving_whole_process.mm" MODIFIED="1550680143609" POSITION="left" TEXT="Whole problem solving process&#xa;6 giai &#x111;o&#x1ea1;n gi&#x1ea3;i quy&#x1ebf;t v&#x1ea5;n &#x111;&#x1ec1; &#xa;[ch&#x1b0;&#x1a1;ng 1.2, quy&#x1ec3;n 1, s&#xe1;ch Phan D&#x169;ng]">
+<node CREATED="1550679495808" ID="ID_332419492" LINK="?path=notes&amp;map=Problem_solving_whole_process.mm" MODIFIED="1550679525903" TEXT="View notes on web browser"/>
 </node>
 </node>
 </map>

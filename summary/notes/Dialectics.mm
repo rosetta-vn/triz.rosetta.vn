@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1549368510376" ID="ID_1506206426" MODIFIED="1549439456255" TEXT="Dialectics&#xa;Tri&#x1ebf;t h&#x1ecd;c bi&#x1ec7;n ch&#x1ee9;ng">
+<node CREATED="1549368510376" ID="ID_1506206426" LINK="../index.mm" MODIFIED="1550680355876" TEXT="Dialectics&#xa;Tri&#x1ebf;t h&#x1ecd;c bi&#x1ec7;n ch&#x1ee9;ng">
 <node CREATED="1549368537342" ID="ID_1566081933" MODIFIED="1549368743197" POSITION="right" TEXT="Khi s&#x1ed1; l&#x1b0;&#x1ee3;ng &#x111;&#x1ed5;i [nhi&#x1ec1;u] th&#xec; d&#x1eab;n &#x111;&#x1ebf;n [b&#x1ea3;n] ch&#x1ea5;t &#x111;&#x1ed5;i">
 <node CREATED="1549369377395" ID="ID_1973570784" MODIFIED="1549369393599" TEXT="Quote Engel: &quot;Nh&#x1eef;ng thay &#x111;&#x1ed5;i &#x111;&#x1a1;n thu&#x1ea7;n v&#x1ec1; l&#x1b0;&#x1ee3;ng, &#x111;&#x1ebf;n m&#x1ed9;t m&#x1ee9;c &#x111;&#x1ed9; nh&#x1ea5;t &#x111;&#x1ecb;nh, s&#x1ebd; chuy&#x1ec3;n h&#xf3;a th&#xe0;nh nh&#x1eef;ng s&#x1ef1; kh&#xe1;c nhau v&#x1ec1; ch&#x1ea5;t&quot;"/>
 </node>
