@@ -44,9 +44,10 @@
 <node CREATED="1549282163619" ID="ID_786971405" MODIFIED="1549366558598" TEXT="1.3. Technological system [3].&#xa;H&#x1ec7; th&#x1ed1;ng k&#x1ef9; thu&#x1ead;t.">
 <icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1549282163619" ID="ID_402880487" MODIFIED="1549366559648" TEXT="1.4. Functions [4].&#xa;Ch&#x1ee9;c n&#x103;ng.">
+<node CREATED="1550753185086" ID="ID_82577895" LINK="notes/Functions.mm" MODIFIED="1550753222810" TEXT="1.4. Functions [4].&#xa;Ch&#x1ee9;c n&#x103;ng.">
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="button_ok"/>
+<node CREATED="1549369175061" ID="ID_1722101546" LINK="?path=notes&amp;map=Functions.mm" MODIFIED="1550753291368" TEXT="View notes on web browser"/>
 </node>
 <node CREATED="1549282163620" ID="ID_364336166" MODIFIED="1549366588460" TEXT="1.5. Ideal technological system [5].&#xa;H&#x1ec7; th&#x1ed1;ng k&#x1ef9; thu&#x1ead;t l&#xfd; t&#x1b0;&#x1edf;ng.">
 <icon BUILTIN="full-2"/>
