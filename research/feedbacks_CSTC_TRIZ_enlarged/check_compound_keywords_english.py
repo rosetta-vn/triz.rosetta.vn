@@ -50,7 +50,7 @@ def check_keywords_file(list_keywords, file_text):
     """
     with open(file_text, 'rt') as file_in:
         text=file_in.read()
-    matching = [0] * len(list_keywords)
+    matching = [""] * len(list_keywords)
     for kk in range(len(list_keywords)):
         if list_keywords[kk] in text: matching[kk] = 1
     return matching
@@ -62,7 +62,7 @@ def check_compound_keywords_file(list_keywords, file_text):
     """
     with open(file_text, 'rt') as file_in:
         text=file_in.read()
-    matching = [0] * len(list_keywords)
+    matching = [""] * len(list_keywords)
     for kk in range(len(list_keywords)):
         group_keywords = list_keywords[kk].split(', ')
         for single_word in group_keywords:
@@ -93,7 +93,8 @@ def mass_check_folder(folder, list_keywords, list_keywords_info, list_keywords_m
     for column in range(2, len(header_row)):
         column_sum = 0
         for row in range(3, len(file_paths)+3): # skip 3 header rows
-            column_sum += table[row][column]
+            if table[row][column]==1:
+                column_sum += table[row][column]
         sum_row.append(column_sum)
     table.append(sum_row)
     return table

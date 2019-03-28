@@ -1,0 +1,36 @@
+Các bài thu hoạch chỉ có từ "nguyên tắc" mà không đi cùng với các cụm từ "sáng tạo", "cơ bản", cũng không gồm "thủ thuật":
+data_individual/data_hssv/hs0047.txt    nguyên tắc kết hợp
+data_individual/data_giaoduc/gd0022.txt nguyên tắc gây ứng suất sơ bộ, thực hiện sơ bộ, nguyên tắc dự phòng, nguyên tắc linh động, nguyên tắc phản hồi
+data_individual/data_lydo/ld0026.txt    NO
+data_individual/data_lydo/ld0011.txt    40 principles
+data_individual/data_lydo/ld0040.txt    NO (nguyên tắc hệ thống)
+data_individual/data_lydo/ld0050.txt    nguyên tắc tách khỏi, nguyên tắc kết hợp
+data_individual/data_lydo/ld0038.txt    NO
+data_individual/data_lydo/ld0031.txt    NO
+data_individual/data_lydo/ld0041.txt    nguyên tắc kết hợp và chứa trong, nguyên tắc liên tục các tác động có ích
+data_individual/data_lydo/ld0020.txt    nguyên tắc phân nhỏ-kết hợp & giải thiếu, thừa
+data_individual/data_lydo/ld0024.txt    NO
+data_individual/data_lydo/ld0035.txt    nguyên tắc “cầu tròn hóa”
+data_individual/data_daihoc/dh0014.txt  nguyên tắc liên tục tác động có ích
+data_individual/data_daihoc/dh0016.txt  nguyên tắc chứa trong, nguyên tắc “giải thiếu hoặc thừa”, Nguyên tắc “biến hại thành lợi”
+data_individual/data_daihoc/dh0013.txt  nguyên tắc phân nhỏ, đảo ngược, gây ứng suất sơ bộ
+data_individual/data_tudo/td0016.txt    nguyên tắc 17 – chuyển sang chiều khác
+data_individual/data_tudo/td0001.txt    40 principles (bảng “các nguyên tắc giải quyết các mâu thuẫn kỹ thuật”)
+data_individual/data_tudo/td0021.txt    40 principles + nguyên tắc chứa trong, nguyên tắc liên tục tác động có ích
+data_individual/data_tudo/td0009.txt    NO
+data_individual/data_tunhan/tn0014.txt  NO
+data_individual/data_tunhan/tn0055.txt  NO
+data_individual/data_tunhan/tn0041.txt  nguyên tắc đảo ngược
+data_individual/data_tunhan/tn0013.txt  NO
+data_individual/data_tunhan/tn0070.txt  NO
+=> 24 records, có 10 là invalid, có 2 cái chỉ nói về 40 principles chung
+
+Các bài có từ "thủ thuật" là đều nói về thủ thuật sáng tạo cả.
+
+
+
+
+
+
+
+
