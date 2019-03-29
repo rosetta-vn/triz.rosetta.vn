@@ -43,6 +43,14 @@ def get_number_first_line(file_text):
     number_text = re.sub(replace_pattern, '\g<2>', first_line)
     return number_text
 
+def get_specialization_number_first_line(file_text):
+    with open(file_text, 'rt') as file_in:
+        first_line = file_in.readline()
+    replace_pattern = r'.+\((.+)\,.+ (\d+)\):'
+    specialization_text = re.sub(replace_pattern, '\g<1>', first_line)
+    number_text = re.sub(replace_pattern, '\g<2>', first_line)
+    return specialization_text, number_text
+
 def check_keywords_file(list_keywords, file_text):
     """
     Check if each keyword in the list is contained in the text file
@@ -75,9 +83,9 @@ def mass_check_folder(folder, list_keywords, list_keywords_info, list_keywords_m
     Check keywords for every file inside the folder, recursively
     Output table of matching arrays, with the first row is list of keywords
     """
-    meaning_row = ['Meaning', ''] + list(list_keywords_meaning)
-    info_row = ['Keywords in English', ''] + list(list_keywords_info)
-    header_row = ['Keywords in Vietnamese', ''] + list(list_keywords)
+    meaning_row = ['Meaning (on row)', '', ''] + list(list_keywords_meaning)
+    info_row = ['Keywords in English (on row)', '', ''] + list(list_keywords_info)
+    header_row = ['Keywords in Vietnamese (on row)', 'Specialization/Job', 'Course number'] + list(list_keywords)
     table = [meaning_row, info_row, header_row]
     file_paths = []
     for root, dirnames, filenames in os.walk(folder):
@@ -85,12 +93,12 @@ def mass_check_folder(folder, list_keywords, list_keywords_info, list_keywords_m
             file_paths.append(os.path.join(root, filename))
     for file_name in file_paths:
         print(file_name)
-        course_number = get_number_first_line(file_name)
-        matching_new = [file_name] + [course_number] + check_compound_keywords_file(list_keywords, file_name)
+        specialization_job, course_number = get_specialization_number_first_line(file_name)
+        matching_new = [file_name] + [specialization_job] + [course_number] + check_compound_keywords_file(list_keywords, file_name)
         table.append(matching_new)
     # make the sum per column
-    sum_row = ['Sum per keywords', '']
-    for column in range(2, len(header_row)):
+    sum_row = ['Sum per keywords', '', '']
+    for column in range(3, len(header_row)):
         column_sum = 0
         for row in range(3, len(file_paths)+3): # skip 3 header rows
             if table[row][column]==1:
