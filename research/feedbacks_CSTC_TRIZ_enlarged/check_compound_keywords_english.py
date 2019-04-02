@@ -57,10 +57,24 @@ def check_keywords_file(list_keywords, file_text):
     Return an array of values 0 (not contained) or 1 (contained), of the same size as the list
     """
     with open(file_text, 'rt') as file_in:
-        text=file_in.read()
+        text = file_in.read()
     matching = [""] * len(list_keywords)
     for kk in range(len(list_keywords)):
         if list_keywords[kk] in text: matching[kk] = 1
+    return matching
+
+def check_keywords_capitalized_file(list_keywords, file_text):
+    """
+    Check if each keyword in the list is contained in the text file
+    Return an array of values 0 (not contained) or 1 (contained), of the same size as the list
+    """
+    with open(file_text, 'rt') as file_in:
+        text = file_in.read()
+    capitalized_text = text.upper()
+    capitalized_list_keywords = [word.upper() for word in list_keywords]
+    matching = [""] * len(list_keywords)
+    for kk in range(len(capitalized_list_keywords)):
+        if capitalized_list_keywords[kk] in capitalized_text: matching[kk] = 1
     return matching
 
 def check_compound_keywords_file(list_keywords, file_text):
@@ -69,12 +83,28 @@ def check_compound_keywords_file(list_keywords, file_text):
     Return an array of values 0 (not contained) or 1 (contained), of the same size as the list
     """
     with open(file_text, 'rt') as file_in:
-        text=file_in.read()
+        text = file_in.read()
     matching = [""] * len(list_keywords)
     for kk in range(len(list_keywords)):
         group_keywords = list_keywords[kk].split(', ')
         for single_word in group_keywords:
             if single_word in text: matching[kk] = 1
+    return matching
+
+def check_compound_keywords_capitalized_file(list_keywords, file_text):
+    """
+    Check if each keyword in the list is contained in the text file. Each entry in the list can be a compound of multiple keywords that are equivalent (count if any of that group of keywords is found).
+    Return an array of values 0 (not contained) or 1 (contained), of the same size as the list
+    """
+    with open(file_text, 'rt') as file_in:
+        text = file_in.read()
+    capitalized_text = text.upper()
+    capitalized_list_keywords = [word.upper() for word in list_keywords]
+    matching = [""] * len(capitalized_list_keywords)
+    for kk in range(len(capitalized_list_keywords)):
+        group_keywords = capitalized_list_keywords[kk].split(', ')
+        for single_word in group_keywords:
+            if single_word in capitalized_text: matching[kk] = 1
     return matching
 
 
@@ -94,7 +124,7 @@ def mass_check_folder(folder, list_keywords, list_keywords_info, list_keywords_m
     for file_name in file_paths:
         print(file_name)
         specialization_job, course_number = get_specialization_number_first_line(file_name)
-        matching_new = [file_name] + [specialization_job] + [course_number] + check_compound_keywords_file(list_keywords, file_name)
+        matching_new = [file_name] + [specialization_job] + [course_number] + check_compound_keywords_capitalized_file(list_keywords, file_name)
         table.append(matching_new)
     # make the sum per column
     sum_row = ['Sum per keywords', '', '']
