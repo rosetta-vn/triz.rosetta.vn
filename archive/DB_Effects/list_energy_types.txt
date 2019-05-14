@@ -1,0 +1,11 @@
+acoustic
+chemical
+electrical
+electromagnetic
+electromagnitic
+kinematic
+kinetic
+magnetic
+mechanical
+optical
+thermal

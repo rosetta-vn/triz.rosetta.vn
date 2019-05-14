@@ -1,0 +1,4 @@
+decrease
+increase
+measure
+stabilise
