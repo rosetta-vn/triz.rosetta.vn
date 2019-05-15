@@ -2,7 +2,6 @@ acoustic
 chemical
 electrical
 electromagnetic
-electromagnitic
 kinematic
 kinetic
 magnetic

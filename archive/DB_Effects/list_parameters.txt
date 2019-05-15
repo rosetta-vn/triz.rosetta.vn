@@ -3,19 +3,19 @@ colour
 concentration
 density
 drag
-electrical_conductivity
+electrical conductivity
 energy
-fluid_flow
+fluid flow
 force
 frequency
 friction
 hardness
-heat_conduction
-heat_convection
+heat conduction
+heat convection
 homogeneity
 humidity
 length
-magnetic_properties
+magnetic properties
 orientation
 polarisation
 porosity
@@ -29,8 +29,8 @@ shape
 sound
 speed
 strength
-surface_area
-surface_finish
+surface area
+surface finish
 temperature
 time
 translucency

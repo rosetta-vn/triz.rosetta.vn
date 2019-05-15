@@ -1,4 +1,4 @@
-divided_solid
+divided solid
 field
 gas
 liquid

@@ -1,8 +1,8 @@
 absorb
 accumulate
 bend
-break_down
-change_phase
+break down
+change phase
 clean
 compress
 concentrate
