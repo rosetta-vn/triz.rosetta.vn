@@ -5,14 +5,17 @@
 <icon BUILTIN="button_ok"/>
 <node CREATED="1548433422709" MODIFIED="1548439131163" POSITION="right" TEXT="Analyze the contradictions in order to eliminate them. It is an essential concept of TRIZ. Altshuller considered only eliminating contradictions leads to real inventions."/>
 <node CREATED="1560072555172" ID="ID_1765189886" MODIFIED="1560084315597" POSITION="right" TEXT="T&#x1ed3;n t&#x1ea1;i m&#xe2;u thu&#x1eab;n n&#xe0;o &#x111;&#xf3; l&#xe0; nguy&#xea;n nh&#xe2;n g&#xe2;y ra v&#x1ea5;n &#x111;&#x1ec1; (k&#x1ebf;t qu&#x1ea3;: ch&#x1ee9;c n&#x103;ng c&#x1ee7;a h&#x1ec7; th&#x1ed1;ng b&#x1ecb; tr&#x1ee5;c tr&#x1eb7;c)."/>
-<node CREATED="1548433476045" ID="ID_1221851908" MODIFIED="1560072912034" POSITION="right">
+<node CREATED="1548433476045" ID="ID_1221851908" MODIFIED="1560086381672" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Three types of contradictions<br />C&#243; 3 lo&#7841;i m&#226;u thu&#7851;n
+      Three types of contradictions
+    </p>
+    <p>
+      C&#243; 3 lo&#7841;i m&#226;u thu&#7851;n
     </p>
   </body>
 </html>
@@ -30,8 +33,7 @@
       M&#226;u thu&#7851;n h&#224;nh ch&#237;nh
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1560073814296" MODIFIED="1560076642900" TEXT="Ch&#x1ec9; ra &#x111;&#x1b0;&#x1ee3;c m&#x1ee5;c &#x111;&#xed;ch c&#x1ea7;n &#x111;&#x1ea1;t, nh&#x1b0;ng ch&#x1b0;a bi&#x1ebf;t c&#xe1;ch n&#xe0;o &#x111;&#x1ec3; &#x111;&#x1ea1;t &#x111;&#x1ebf;n m&#x1ee5;c &#x111;&#xed;ch."/>
 </node>
 <node CREATED="1548433495662" MODIFIED="1560072954911">
@@ -47,8 +49,7 @@
       M&#226;u thu&#7851;n k&#7929; thu&#7853;t
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1560073896211" MODIFIED="1560077231437">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -62,8 +63,7 @@
       Ch&#7881; ra hai th&#244;ng s&#7889; trong h&#7879; th&#7889;ng c&#243; t&#237;nh ch&#7845;t &#273;&#7889;i l&#7853;p v&#7899;i nhau: c&#225;i n&#224;y t&#7889;t l&#234;n th&#236; c&#225;i kia x&#7845;u &#273;i
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1560074177646" MODIFIED="1560076410404" TEXT="C&#xe1;ch ph&#xe1;t bi&#x1ec3;u">
 <node CREATED="1548433794320" MODIFIED="1560074253491">
@@ -109,8 +109,7 @@
       N&#7871;u &lt;t&#259;ng c&#432;&#7901;ng th&#244;ng s&#7889; A&gt; b&#7857;ng &lt;h&#224;nh &#273;&#7897;ng n&#224;o &#273;&#243;&gt; th&#236; &lt;h&#7853;u qu&#7843; x&#7845;u cho th&#244;ng s&#7889; B&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1560074998016" MODIFIED="1560076442573" TEXT="C&#xe1;ch gi&#x1ea3;i quy&#x1ebf;t">
@@ -132,8 +131,7 @@
       M&#226;u thu&#7851;n v&#7853;t l&#253;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1548437900901" MODIFIED="1548439464595" TEXT="Translate a technical contradiction (conflicting between 2 parameters) into the problem of 2 opposite (physical) characteristics of the system"/>
 <node CREATED="1560077096471" ID="ID_1076794111" MODIFIED="1560084292111" TEXT="Chuy&#x1ec3;n t&#x1eeb; m&#xe2;u thu&#x1eab;n k&#x1ef9; thu&#x1ead;t (2 th&#xf4;ng s&#x1ed1; &#x111;&#x1ed1;i l&#x1ead;p) th&#xe0;nh: h&#x1ec7; th&#x1ed1;ng c&#x1ea7;n c&#xf3; &#x111;&#x1ed3;ng th&#x1edd;i 2 t&#xed;nh ch&#x1ea5;t tr&#xe1;i ng&#x1b0;&#x1ee3;c"/>
 <node CREATED="1560077303007" MODIFIED="1560077307386" TEXT="C&#xe1;ch ph&#xe1;t bi&#x1ec3;u">
@@ -154,8 +152,7 @@
       Use Separation techniques
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1560077569672" ID="ID_1750511784" MODIFIED="1560077575721" TEXT="4 nh&#xf3;m k&#x1ef9; thu&#x1ead;t ph&#xe2;n chia">
 <node CREATED="1560077577685" MODIFIED="1560077582783" TEXT="Ph&#xe2;n chia v&#x1ec1; kh&#xf4;ng gian"/>
 <node CREATED="1560077583112" MODIFIED="1560077585905" TEXT="Ph&#xe2;n chia v&#x1ec1; th&#x1edd;i gian"/>
@@ -176,8 +173,7 @@
       H&#417;n 90% s&#225;ng ch&#7871; l&#224; d&#7921;a tr&#234;n k&#7929; thu&#7853;t Ph&#226;n chia v&#7873; th&#7901;i gian ho&#7863;c Ph&#226;n chia v&#7873; kh&#244;ng gian
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1548440461150" MODIFIED="1560077745585">
 <richcontent TYPE="NODE"><html>
@@ -192,8 +188,7 @@
       Ph&#226;n chia v&#7873; kh&#244;ng gian
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1548440478640" MODIFIED="1548440480435" TEXT="&#x201d;WHERE the parameter has to have the property A and WHERE the property -A ?&#x201d;"/>
 <node CREATED="1560083864043" MODIFIED="1560083908985" TEXT="H&#x1ec7; th&#x1ed1;ng c&#xf3; t&#xed;nh ch&#x1ea5;t A &#x1edf; n&#x1a1;i n&#xe0;y, v&#xe0; t&#xed;nh ch&#x1ea5;t -A &#x1edf; n&#x1a1;i kh&#xe1;c"/>
 </node>
