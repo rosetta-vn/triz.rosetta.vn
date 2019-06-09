@@ -68,9 +68,8 @@
 <node CREATED="1549282163623" ID="ID_903341413" MODIFIED="1549366575661" TEXT="1.11. Levels of inventions [5].&#xa;C&#xe1;c m&#x1ee9;c s&#xe1;ng t&#x1ea1;o.">
 <icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1549282163624" ID="ID_525307101" MODIFIED="1549366578250" TEXT="1.12. Contradictions: administrative, engineering, and physical [12].&#xa;C&#xe1;c m&#xe2;u thu&#x1eab;n: h&#xe0;nh ch&#xed;nh, k&#x1ef9; thu&#x1ead;t, v&#xe0; v&#x1ead;t l&#xfd;.">
-<icon BUILTIN="full-1"/>
-<icon BUILTIN="button_ok"/>
+<node CREATED="1560084139693" ID="ID_369325431" LINK="notes/Contradictions.mm" MODIFIED="1560084139695" TEXT="1.12. Contradictions: administrative, engineering, and physical [12].&#xa;C&#xe1;c m&#xe2;u thu&#x1eab;n: h&#xe0;nh ch&#xed;nh, k&#x1ef9; thu&#x1ead;t, v&#xe0; v&#x1ead;t l&#xfd;.">
+<node CREATED="1549369175061" ID="ID_1886839728" LINK="?path=notes&amp;map=Contradictions.mm" MODIFIED="1560084461786" TEXT="View notes on web browser"/>
 </node>
 <node CREATED="1549282163624" ID="ID_1943104687" MODIFIED="1550659179986" TEXT="1.13. System operator. Multi-screen scheme of talented thinking [13].&#xa;M&#xe0;n h&#xec;nh 9 h&#x1ec7; (h&#x1ec7; th&#x1ed1;ng + h&#x1ec7; con + h&#x1ec7; cha x hi&#x1ec7;n t&#x1ea1;i, qu&#xe1; kh&#x1ee9;, t&#x1b0;&#x1a1;ng lai)">
 <icon BUILTIN="full-1"/>
